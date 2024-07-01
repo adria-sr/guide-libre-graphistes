@@ -1,0 +1,1090 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCRIBUSUTF8NEW Version="1.5.8">
+    <DOCUMENT ANZPAGES="20" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="0" PAGESIZE="A5" FIRSTNUM="1" BOOK="1" AUTOSPALTEN="1" ABSTSPALTEN="11" UNITS="1" DFONT="Arial Regular" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" TextDistLeft="0" TextDistRight="0" TextDistBottom="0" TextDistTop="0" FirstLineOffset="1" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="11" BASEO="0" AUTOL="100" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="3" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPPr="ISO Coated v2 300% (basICColor)" DPIn="sRGB display profile (ICC v2.2)" DPInCMYK="ISO Coated v2 300% (basICColor)" DPIn2="sRGB display profile (ICC v2.2)" DPIn3="ISO Coated v2 300% (basICColor)" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="fr" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="0" SnapToGuides="1" SnapToGrid="0" SnapToElement="1" MINGRID="20.0012598425197" MAJGRID="100.00062992126" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" SHOWFRAME="1" SHOWControl="0" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="1" SHOWPICT="1" SHOWLINK="1" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.502045814642449" POLYR="0" POLYIR="0" POLYCUR="0" POLYOCUR="0" POLYS="0" arcStartAngle="30" arcSweepAngle="300" spiralStartAngle="0" spiralEndAngle="1080" spiralFactor="1.2" AutoSave="1" AutoSaveTime="600000" AutoSaveCount="1" AutoSaveKeep="0" AUtoSaveInDocDir="1" AutoSaveDir="" ScratchBottom="20.0012598425197" ScratchLeft="100.00062992126" ScratchRight="100.00062992126" ScratchTop="20.0012598425197" GapHorizontal="0" GapVertical="39.9996850393701" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" CPICT="None" PICTSHADE="100" CSPICT="None" PICTSSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="10.0006299212598" dispY="10.0006299212598" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" renderStack="2 0 4 1 3" GridType="0" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PostScript" calligraphicPenFillColor="Black" calligraphicPenLineColor="Black" calligraphicPenFillColorShade="100" calligraphicPenLineColorShade="100" calligraphicPenLineWidth="1" calligraphicPenAngle="0" calligraphicPenWidth="10" calligraphicPenStyle="1">
+        <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.6" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-1a" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="1" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PostScript" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <COLOR NAME="Black" SPACE="CMYK" C="0" M="0" Y="0" K="100"/>
+        <COLOR NAME="Blue" SPACE="RGB" R="0" G="0" B="255"/>
+        <COLOR NAME="Cool Black" SPACE="CMYK" C="60" M="0" Y="0" K="100"/>
+        <COLOR NAME="Couleur de base" SPACE="CMYK" C="4.23437857633326" M="4.81422140840772" Y="90.0617990386816" K="0"/>
+        <COLOR NAME="Cyan" SPACE="CMYK" C="100" M="0" Y="0" K="0"/>
+        <COLOR NAME="Green" SPACE="RGB" R="0" G="255" B="0"/>
+        <COLOR NAME="Magenta" SPACE="CMYK" C="0" M="100" Y="0" K="0"/>
+        <COLOR NAME="Monochromatique clair" SPACE="CMYK" C="2.734416723888" M="1.58083466849775" Y="57.6729991607538" K="0"/>
+        <COLOR NAME="Monochromatique sombre" SPACE="CMYK" C="43.2883192187381" M="35.7381551842527" Y="97.9430838483253" K="29.6513313496605"/>
+        <COLOR NAME="Red" SPACE="RGB" R="255" G="0" B="0"/>
+        <COLOR NAME="Registration" SPACE="CMYK" C="100" M="100" Y="100" K="100" Register="1"/>
+        <COLOR NAME="Rich Black" SPACE="CMYK" C="60" M="40" Y="40" K="100"/>
+        <COLOR NAME="Warm Black" SPACE="CMYK" C="0" M="60" Y="29.8039215686275" K="100"/>
+        <COLOR NAME="White" SPACE="CMYK" C="0" M="0" Y="0" K="0"/>
+        <COLOR NAME="Yellow" SPACE="CMYK" C="0" M="0" Y="100" K="0"/>
+        <HYPHEN/>
+        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Arial Regular" FONTSIZE="12" FONTFEATURES="" FEATURES="inherit" FCOLOR="Black" FSHADE="100" HyphenWordMin="3" SCOLOR="Black" BGCOLOR="None" BGSHADE="100" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="fr"/>
+        <CHARSTYLE CNAME="Logiciel " FONT="VG5000 Regular" FONTSIZE="10" FONTFEATURES="-clig" FEATURES="" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" BASEO="0" LANGUAGE="fr"/>
+        <CHARSTYLE CNAME="Commentaire" FONT="IBM Plex Sans Text Italic" FONTSIZE="10" FONTFEATURES="-clig" FSHADE="60" HyphenWordMin="5" LANGUAGE="fr"/>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" DIRECTION="0" LINESPMode="1" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" Bullet="0" Numeration="0" HyphenConsecutiveLines="2" BCOLOR="None" BSHADE="100"/>
+        <STYLE NAME="Labeur" ALIGN="3" LINESPMode="2" LINESP="10" FIRST="0" VOR="0" NACH="0" FONT="IBM Plex Sans Regular" FONTSIZE="10" FONTFEATURES="-clig" HyphenWordMin="5" LANGUAGE="fr">
+            <Tabs Type="0" Pos="14" Fill=""/>
+        </STYLE>
+        <STYLE NAME="Titre" ALIGN="1" LINESPMode="1" FIRST="0" FONT="VG5000 Regular" FONTFEATURES="-clig" LANGUAGE="fr"/>
+        <STYLE NAME="Titre partie" ALIGN="0" LINESPMode="2" FIRST="0" NACH="8" FONT="VG5000 Regular" FONTSIZE="14" FONTFEATURES="-clig" LANGUAGE="fr"/>
+        <STYLE NAME="Labeur logiciel" ALIGN="0" LINESPMode="2" LINESP="10" FIRST="0" VOR="0" NACH="0" CPARENT="Logiciel ">
+            <Tabs Type="0" Pos="14" Fill=""/>
+        </STYLE>
+        <STYLE NAME="Commentaires" ALIGN="2" LINESPMode="2" LINESP="10" FIRST="0" VOR="0" NACH="0" CPARENT="Commentaire">
+            <Tabs Type="0" Pos="14" Fill=""/>
+        </STYLE>
+        <STYLE NAME="Titre principal" ALIGN="0" LINESPMode="2" FIRST="0" NACH="8" FONT="VG5000 Regular" FONTSIZE="19" FONTFEATURES="-clig" LANGUAGE="fr"/>
+        <TableStyle NAME="Default Table Style" DefaultStyle="1" FillColor="None" FillShade="100">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </TableStyle>
+        <CellStyle NAME="Default Cell Style" DefaultStyle="1" FillColor="None" FillShade="100" LeftPadding="1" RightPadding="1" TopPadding="1" BottomPadding="1">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </CellStyle>
+        <LAYERS NUMMER="0" LEVEL="0" NAME="Fond de page" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
+        <Printer firstUse="1" toFile="0" useAltPrintCommand="0" outputSeparations="0" useSpotColors="1" useColor="1" mirrorH="0" mirrorV="0" useICC="0" doGCR="0" doClip="0" setDevParam="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" includePDFMarks="1" PSLevel="3" PrintEngine="4" markLength="20.0013" markOffset="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="Microsoft Print to PDF" filename="" separationName="All" printerCommand=""/>
+        <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="2" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" rangeSel="0" rangeTxt="" RotateDeg="0" PresentMode="0" RecalcPic="0" FontEmbedding="1" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="sRGB display profile (ICC v2.2)" ImageP="sRGB display profile (ICC v2.2)" PrintP="ISO Coated v2 300% (basICColor)" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markLength="20.0012598425197" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" openAfterExport="0" PageLayout="0" openAction="">
+            <LPI Color="" Frequency="10" Angle="0" SpotFunction="0"/>
+            <LPI Color="Black" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Cyan" Frequency="133" Angle="105" SpotFunction="3"/>
+            <LPI Color="Magenta" Frequency="133" Angle="75" SpotFunction="3"/>
+            <LPI Color="Yellow" Frequency="133" Angle="90" SpotFunction="3"/>
+        </PDF>
+        <DocItemAttributes/>
+        <TablesOfContents/>
+        <NotesStyles>
+            <notesStyle Name="Default" Start="1" Endnotes="0" Type="Type_1_2_3" Range="0" Prefix="" Suffix=")" AutoHeight="1" AutoWidth="1" AutoRemove="1" AutoWeld="1" SuperNote="1" SuperMaster="1" MarksStyle="" NotesStyle=""/>
+        </NotesStyles>
+        <PageSets>
+            <Set Name="Single Page" FirstPage="0" Rows="1" Columns="1"/>
+            <Set Name="Facing Pages" FirstPage="1" Rows="1" Columns="2">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="3-Fold" FirstPage="0" Rows="1" Columns="3">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="4-Fold" FirstPage="0" Rows="1" Columns="4">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle Left"/>
+                <PageNames Name="Middle Right"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+        </PageSets>
+        <Sections>
+            <Section Number="0" Name="0" From="0" To="19" Type="Type_1_2_3" Start="1" Reversed="0" Active="1" FillChar="0" FieldWidth="0"/>
+        </Sections>
+        <MASTERPAGE PAGEXPOS="100.00062992126" PAGEYPOS="20.0012598425197" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="0" NAM="Normal gauche" MNAM="" Size="A5" Orientation="0" LEFT="1" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="11.3385826771654" AGhorizontalAutoCount="0" AGverticalAutoCount="2" AGhorizontalAutoRefer="0" AGverticalAutoRefer="1" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <MASTERPAGE PAGEXPOS="100.00062992126" PAGEYPOS="20.0012598425197" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="1" NAM="Normal droite" MNAM="" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="11.3385826771654" AGhorizontalAutoCount="0" AGverticalAutoCount="2" AGhorizontalAutoRefer="0" AGverticalAutoRefer="1" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <MASTERPAGE PAGEXPOS="100.00062992126" PAGEYPOS="20.0012598425197" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="2" NAM="NumPageG" MNAM="" Size="A5" Orientation="0" LEFT="1" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="11.3385826771654" AGhorizontalAutoCount="0" AGverticalAutoCount="2" AGhorizontalAutoRefer="0" AGverticalAutoRefer="1" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <MASTERPAGE PAGEXPOS="100.00062992126" PAGEYPOS="20.0012598425197" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="3" NAM="NumPageD" MNAM="" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="11.3385826771654" AGhorizontalAutoCount="0" AGverticalAutoCount="2" AGhorizontalAutoRefer="0" AGverticalAutoRefer="1" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="519.528188976378" PAGEYPOS="20.0012598425197" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="0" NAM="" MNAM="Normal droite" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="209.764 " HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="11.3385826771654" AGhorizontalAutoCount="0" AGverticalAutoCount="2" AGhorizontalAutoRefer="0" AGverticalAutoRefer="1" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="655.276535433071" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="1" NAM="" MNAM="Normal gauche" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="11.3385826771654" AGhorizontalAutoCount="0" AGverticalAutoCount="2" AGhorizontalAutoRefer="0" AGverticalAutoRefer="1" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="519.528188976378" PAGEYPOS="655.276535433071" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="2" NAM="" MNAM="Normal droite" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="11.3385826771654" AGhorizontalAutoCount="0" AGverticalAutoCount="2" AGhorizontalAutoRefer="0" AGverticalAutoRefer="1" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="1290.55181102362" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="3" NAM="" MNAM="NumPageG" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="11.3385826771654" AGhorizontalAutoCount="0" AGverticalAutoCount="2" AGhorizontalAutoRefer="0" AGverticalAutoRefer="1" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="519.528188976378" PAGEYPOS="1290.55181102362" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="4" NAM="" MNAM="Normal gauche" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="11.3385826771654" AGhorizontalAutoCount="0" AGverticalAutoCount="2" AGhorizontalAutoRefer="0" AGverticalAutoRefer="1" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="1925.82708661417" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="5" NAM="" MNAM="Normal droite" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="11.3385826771654" AGhorizontalAutoCount="0" AGverticalAutoCount="2" AGhorizontalAutoRefer="0" AGverticalAutoRefer="1" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="519.528188976378" PAGEYPOS="1925.82708661417" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="6" NAM="" MNAM="Normal droite" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="11.3385826771654" AGhorizontalAutoCount="0" AGverticalAutoCount="2" AGhorizontalAutoRefer="0" AGverticalAutoRefer="1" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="2561.10236220472" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="7" NAM="" MNAM="NumPageG" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="11.3385826771654" AGhorizontalAutoCount="0" AGverticalAutoCount="2" AGhorizontalAutoRefer="0" AGverticalAutoRefer="1" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="519.528188976378" PAGEYPOS="2561.10236220472" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="8" NAM="" MNAM="Normal droite" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="11.3385826771654" AGhorizontalAutoCount="0" AGverticalAutoCount="2" AGhorizontalAutoRefer="0" AGverticalAutoRefer="1" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="3196.37763779528" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="9" NAM="" MNAM="NumPageG" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="11.3385826771654" AGhorizontalAutoCount="0" AGverticalAutoCount="2" AGhorizontalAutoRefer="0" AGverticalAutoRefer="1" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="519.528188976378" PAGEYPOS="3196.37763779528" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="10" NAM="" MNAM="Normal droite" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="11.3385826771654" AGhorizontalAutoCount="0" AGverticalAutoCount="2" AGhorizontalAutoRefer="0" AGverticalAutoRefer="1" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="3831.65291338583" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="11" NAM="" MNAM="Normal gauche" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="11.3385826771654" AGhorizontalAutoCount="0" AGverticalAutoCount="2" AGhorizontalAutoRefer="0" AGverticalAutoRefer="1" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="519.528188976378" PAGEYPOS="3831.65291338583" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="12" NAM="" MNAM="Normal droite" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="11.3385826771654" AGhorizontalAutoCount="0" AGverticalAutoCount="3" AGhorizontalAutoRefer="0" AGverticalAutoRefer="1" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="4466.92818897638" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="13" NAM="" MNAM="NumPageG" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="11.3385826771654" AGhorizontalAutoCount="0" AGverticalAutoCount="3" AGhorizontalAutoRefer="0" AGverticalAutoRefer="1" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="519.528188976378" PAGEYPOS="4466.92818897638" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="14" NAM="" MNAM="NumPageD" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="11.3385826771654" AGhorizontalAutoCount="0" AGverticalAutoCount="2" AGhorizontalAutoRefer="0" AGverticalAutoRefer="1" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="5102.20346456693" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="15" NAM="" MNAM="Normal gauche" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="11.3385826771654" AGhorizontalAutoCount="0" AGverticalAutoCount="2" AGhorizontalAutoRefer="0" AGverticalAutoRefer="1" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="519.528188976378" PAGEYPOS="5102.20346456693" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="16" NAM="" MNAM="Normal droite" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="11.3385826771654" AGhorizontalAutoCount="0" AGverticalAutoCount="2" AGhorizontalAutoRefer="0" AGverticalAutoRefer="1" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="5737.47874015748" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="17" NAM="" MNAM="Normal gauche" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="11.3385826771654" AGhorizontalAutoCount="0" AGverticalAutoCount="2" AGhorizontalAutoRefer="0" AGverticalAutoRefer="1" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="519.528188976378" PAGEYPOS="5737.47874015748" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="18" NAM="" MNAM="Normal droite" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="11.3385826771654" AGhorizontalAutoCount="0" AGverticalAutoCount="2" AGhorizontalAutoRefer="0" AGverticalAutoRefer="1" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="6372.75401574803" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="19" NAM="" MNAM="Normal gauche" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="11.3385826771654" AGhorizontalAutoCount="0" AGverticalAutoCount="2" AGhorizontalAutoRefer="0" AGverticalAutoRefer="1" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <FRAMEOBJECT InID="2476" XPOS="0" YPOS="0" OwnPage="-1" ItemID="201498624" PTYPE="4" WIDTH="105.616797900262" HEIGHT="37.52590266876" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L105.617 0 L105.617 37.5259 L0 37.5259 L0 0 Z" copath="M0 0 L105.617 0 L105.617 37.5259 L0 37.5259 L0 0 Z" isInline="1" gXpos="0" gYpos="0" gWidth="105.616797900262" gHeight="37.52590266876" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Utile pour po­si­tion­ner du texte (+- 4mm)"/>
+                <trail PARENT="Commentaires"/>
+            </StoryText>
+        </FRAMEOBJECT>
+        <FRAMEOBJECT InID="15322" XPOS="0" YPOS="0" OwnPage="-1" ItemID="201504000" PTYPE="4" WIDTH="105.616797900262" HEIGHT="55.6800000000003" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L105.617 0 L105.617 55.68 L0 55.68 L0 0 Z" copath="M0 0 L105.617 0 L105.617 55.68 L0 55.68 L0 0 Z" isInline="1" gXpos="0" gYpos="0" gWidth="105.616797900262" gHeight="55.6800000000003" PSTYLE="Commentaires" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Commentaires"/>
+                <ITEXT CH="1. Les commentaires"/>
+                <trail PARENT="Commentaires"/>
+            </StoryText>
+        </FRAMEOBJECT>
+        <FRAMEOBJECT InID="13853" XPOS="0" YPOS="0" OwnPage="-1" ItemID="201158800" PTYPE="4" WIDTH="105.616797900262" HEIGHT="37.52590266876" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L105.617 0 L105.617 37.5259 L0 37.5259 L0 0 Z" copath="M0 0 L105.617 0 L105.617 37.5259 L0 37.5259 L0 0 Z" isInline="1" gXpos="0" gYpos="0" gWidth="105.616797900262" gHeight="37.52590266876" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Utile pour po­si­tion­ner du texte (+- 4mm)"/>
+                <trail PARENT="Commentaires"/>
+            </StoryText>
+        </FRAMEOBJECT>
+        <FRAMEOBJECT InID="24095" XPOS="0" YPOS="0" OwnPage="-1" ItemID="201542160" PTYPE="4" WIDTH="105.616797900262" HEIGHT="37.52590266876" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L105.617 0 L105.617 37.5259 L0 37.5259 L0 0 Z" copath="M0 0 L105.617 0 L105.617 37.5259 L0 37.5259 L0 0 Z" isInline="1" gXpos="0" gYpos="0" gWidth="105.616797900262" gHeight="37.52590266876" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Utile pour po­si­tion­ner du texte (+- 4mm)"/>
+                <trail PARENT="Commentaires"/>
+            </StoryText>
+        </FRAMEOBJECT>
+        <MASTEROBJECT XPOS="121.513677054104" YPOS="569.276850393701" OwnPage="2" ItemID="201362592" PTYPE="4" WIDTH="15.6523071978642" HEIGHT="19.1701000012362" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L15.6523 0 L15.6523 19.1701 L0 19.1701 L0 0 Z" copath="M0 0 L15.6523 0 L15.6523 19.1701 L0 19.1701 L0 0 Z" OnMasterPage="NumPageG" gXpos="4495778.83651089" gYpos="267199891.291417" gWidth="0" gHeight="0" PSTYLE="Labeur logiciel" ALIGN="2" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Labeur logiciel" ALIGN="2"/>
+                <var name="pgno"/>
+                <trail ALIGN="2"/>
+            </StoryText>
+        </MASTEROBJECT>
+        <MASTEROBJECT XPOS="482.362834645669" YPOS="565.691800393083" OwnPage="3" ItemID="201367968" PTYPE="4" WIDTH="15.6523071978642" HEIGHT="19.1701000012362" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L15.6523 0 L15.6523 19.1701 L0 19.1701 L0 0 Z" copath="M0 0 L15.6523 0 L15.6523 19.1701 L0 19.1701 L0 0 Z" OnMasterPage="NumPageD" gXpos="13338941.5754301" gYpos="142020165.201767" gWidth="0" gHeight="0" PSTYLE="Labeur logiciel" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Labeur logiciel" ALIGN="0"/>
+                <var name="pgno"/>
+                <trail ALIGN="0"/>
+            </StoryText>
+        </MASTEROBJECT>
+        <PAGEOBJECT XPOS="664.861522309711" YPOS="5007.88329734075" OwnPage="14" ItemID="201373344" PTYPE="12" WIDTH="11.9055118110243" HEIGHT="14.2866336649622" FRTYPE="0" CLIPEDIT="0" ANNAME="Groupe 1" groupWidth="11.9055118110243" groupHeight="14.2866336649622" groupClips="1" path="M0 0 L11.9055 0 L11.9055 14.2866 L0 14.2866 L0 0 Z" copath="M0 0 L11.9055 0 L11.9055 14.2866 L0 14.2866 L0 0 Z" gXpos="664.861522309711" gYpos="5007.88329734075" gWidth="0" gHeight="0" LAYER="0">
+            <PAGEOBJECT XPOS="665.14498687664" YPOS="5007.89804025249" OwnPage="14" ItemID="201580288" PTYPE="5" WIDTH="14.2718907532225" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" ROT="90" PWIDTH="0.566929133858268" PCOLOR2="Black" SHADE2="60" PLINEART="2" path="" gXpos="0.283464566929183" gYpos="0.0147429117396314" gWidth="11.9055118110243" gHeight="14.2866336649622" LAYER="0"/>
+            <PAGEOBJECT XPOS="676.483569553806" YPOS="5007.88329734075" OwnPage="14" ItemID="201332384" PTYPE="5" WIDTH="14.2718907532225" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" ROT="90" PWIDTH="0.566929133858268" PCOLOR2="Black" SHADE2="60" PLINEART="2" path="" gXpos="11.6220472440951" gYpos="0" gWidth="11.9055118110243" gHeight="14.2866336649622" LAYER="0"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="782.100367454068" YPOS="5007.88329734075" OwnPage="14" ItemID="201337648" PTYPE="5" WIDTH="14.2718907532225" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" ROT="90" PWIDTH="0.566929133858268" PCOLOR2="Black" SHADE2="60" PLINEART="2" path="" gXpos="782.100367454068" gYpos="5007.88329734075" gWidth="14.2718907532225" gHeight="1" LAYER="0"/>
+        <PAGEOBJECT XPOS="793.438950131234" YPOS="5007.8494488189" OwnPage="14" ItemID="201342912" PTYPE="5" WIDTH="14.2718907532225" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" ROT="90" PWIDTH="0.566929133858268" PCOLOR2="Black" SHADE2="60" PLINEART="2" path="" gXpos="793.438950131234" gYpos="5007.8494488189" gWidth="14.2718907532225" gHeight="1" LAYER="0"/>
+        <PAGEOBJECT XPOS="899.055748031496" YPOS="5007.89804025249" OwnPage="14" ItemID="201566480" PTYPE="5" WIDTH="14.2718907532225" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" ROT="90" PWIDTH="0.566929133858268" PCOLOR2="Black" SHADE2="60" PLINEART="1" path="" gXpos="899.055748031496" gYpos="5007.89804025249" gWidth="14.2718907532225" gHeight="1" LAYER="0"/>
+        <PAGEOBJECT XPOS="559.528188976378" YPOS="5007.93188877434" OwnPage="14" ItemID="201571744" PTYPE="5" WIDTH="14.2718907532225" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" ROT="90" PWIDTH="0.566929133858268" PCOLOR2="Black" SHADE2="60" PLINEART="1" path="" gXpos="559.528188976378" gYpos="5007.93188877434" gWidth="14.2718907532225" gHeight="1" LAYER="0"/>
+        <PAGEOBJECT XPOS="536.966662888294" YPOS="26.7798355974733" OwnPage="0" ItemID="201577008" PTYPE="4" WIDTH="385.582417582418" HEIGHT="493.560709007528" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L385.582 0 L385.582 493.561 L0 493.561 L0 0 Z" copath="M0 0 L385.582 0 L385.582 493.561 L0 493.561 L0 0 Z" gXpos="536.966662888294" gYpos="26.7798355974733" gWidth="0" gHeight="0" PSTYLE="Titre" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Titre"/>
+                <ITEXT FONTSIZE="45" CH="petit guide "/>
+                <para PARENT="Titre" LINESPMode="0" LINESP="45"/>
+                <ITEXT FONTSIZE="45" CH="pratique"/>
+                <para PARENT="Titre" LINESPMode="0" LINESP="45"/>
+                <ITEXT FONTSIZE="45" CH="du"/>
+                <ITEXT CH=" "/>
+                <para PARENT="Titre" LINESPMode="0" LINESP="45"/>
+                <ITEXT FONTSIZE="45" CH="logicel libre"/>
+                <para PARENT="Titre" LINESPMode="0" LINESP="45"/>
+                <ITEXT FONTSIZE="45" CH="pour"/>
+                <para ALIGN="1" DIRECTION="0" LINESPMode="0" LINESP="45"/>
+                <ITEXT FONTSIZE="45" CH="graphistes"/>
+                <para LINESPMode="0" LINESP="45"/>
+                <ITEXT FONTSIZE="25" CH="n"/>
+                <ITEXT FONT="VG5000 Regular" FONTSIZE="25" CH="⃟1 SCRIBUS"/>
+                <trail LINESPMode="0" LINESP="45"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="559.528188976378" YPOS="561.626633468894" OwnPage="0" ItemID="201714016" PTYPE="4" WIDTH="339.527559055118" HEIGHT="37.9780219780221" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L339.528 0 L339.528 37.978 L0 37.978 L0 0 Z" copath="M0 0 L339.528 0 L339.528 37.978 L0 37.978 L0 0 Z" gXpos="559.528188976378" gYpos="561.626633468894" gWidth="0" gHeight="0" PSTYLE="Titre" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Titre" FONTSIZE="20"/>
+                <ITEXT FONT="VG5000 Regular" FONTSIZE="20" CH="      ✏"/>
+                <ITEXT FONT="VG5000 Regular" FONTSIZE="20" Unicode="55357"/>
+                <ITEXT FONT="VG5000 Regular" FONTSIZE="20" Unicode="56534"/>
+                <trail PARENT="Titre"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="773.596430446194" YPOS="589.113585087579" OwnPage="0" ItemID="201719392" PTYPE="4" WIDTH="128.401883830455" HEIGHT="27.6734693877556" FRTYPE="0" CLIPEDIT="0" ROT="180" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L128.402 0 L128.402 27.6735 L0 27.6735 L0 0 Z" copath="M0 0 L128.402 0 L128.402 27.6735 L0 27.6735 L0 0 Z" gXpos="773.596430446194" gYpos="589.113585087579" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="VG5000 Regular" FONTSIZE="20" CH="©"/>
+                <trail PARENT="Titre"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="117.439103833176" YPOS="6379.53259150298" OwnPage="19" ItemID="201754928" PTYPE="4" WIDTH="385.582417582418" HEIGHT="493.560709007528" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L385.582 0 L385.582 493.561 L0 493.561 L0 0 Z" copath="M0 0 L385.582 0 L385.582 493.561 L0 493.561 L0 0 Z" gXpos="536.966662888294" gYpos="1297.32786709354" gWidth="0" gHeight="0" PSTYLE="Titre" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Titre"/>
+                <ITEXT FONTSIZE="45" CH="à toi de jouer !"/>
+                <para LINESPMode="0" LINESP="45"/>
+                <ITEXT FONTSIZE="45" CH="reproduis ce guide"/>
+                <para LINESPMode="0" LINESP="45"/>
+                <ITEXT FONTSIZE="45" CH="pour apprendre "/>
+                <breakline/>
+                <ITEXT FONTSIZE="45" CH="à utiliser "/>
+                <para LINESPMode="0" LINESP="45"/>
+                <ITEXT FONTSIZE="45" CH="scribus"/>
+                <para LINESPMode="0" LINESP="45"/>
+                <ITEXT FONTSIZE="45" CH="et distribue-le"/>
+                <para LINESPMode="0" LINESP="45"/>
+                <ITEXT FONTSIZE="45" CH="à ton tour "/>
+                <para LINESPMode="0" LINESP="45"/>
+                <ITEXT FONT="VG5000 Regular" FONTSIZE="45" Unicode="55357"/>
+                <ITEXT FONT="VG5000 Regular" FONTSIZE="45" Unicode="56838"/>
+                <para LINESPMode="0" LINESP="45"/>
+                <ITEXT FONTSIZE="25" CH="n"/>
+                <ITEXT FONT="VG5000 Regular" FONTSIZE="25" CH="⃟1SCRIBUS"/>
+                <trail LINESPMode="0" LINESP="45"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="676.483569553806" YPOS="686.276535433071" OwnPage="2" ItemID="201487360" PTYPE="4" WIDTH="222.57217847769" HEIGHT="394.546321709786" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L222.572 0 L222.572 394.546 L0 394.546 L0 0 Z" copath="M0 0 L222.572 0 L222.572 394.546 L0 394.546 L0 0 Z" gXpos="676.483569553806" gYpos="686.276535433071" gWidth="0" gHeight="0" PSTYLE="Labeur" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Labeur"/>
+                <ITEXT FONT="VG5000 Regular" Unicode="55357"/>
+                <ITEXT FONT="VG5000 Regular" Unicode="56393"/>
+                <ITEXT CH=" À pro­pos de ce guide"/>
+                <para PARENT="Titre principal"/>
+                <tab/>
+                <ITEXT CH="Un pro­blème avec ton crack du crea­tive cloud ? Une en­vie de re­prendre la main sur tes ou­tils de créa­tion ? Un pro­jet col­la­bo­ra­tif de jour­nal pour ton asso ? Le libre est fait pour toi !"/>
+                <para PARENT="Labeur"/>
+                <tab/>
+                <ITEXT CH="Ins­pi­ré de mon ex­pé­rience, le dé­rou­lé pra­tique de ce guide est une in­vi­ta­tion à le re­pro­duire pour ap­prendre les bases de Scri­bus, un lo­gi­ciel libre de PAO (Pu­bli­ca­tion As­sis­tée par Or­di­na­teur)."/>
+                <para PARENT="Labeur"/>
+                <tab/>
+                <ITEXT CH="Son am­bi­tion n'est pas d'ex­pli­quer ex­haus­ti­ve­ment toutes les fonc­tio­na­li­tés de Scri­bus, mais de trans­mettre une mé­tho­do­lo­gie d'usage du lo­gi­ciel. Pour re­pro­duire tout les élé­ments que tu vois dans ce guide, il te fau­dra sans doute cher­cher un peu par toi même. Si tu as l'ex­pé­rience d'autres lo­gi­ciels si­mi­laire ou même de trai­te­ment de texte plus cou­rants, tout de­vrait bien se pas­ser."/>
+                <para PARENT="Labeur"/>
+                <tab/>
+                <ITEXT CH="Néanmoins, libre à toi de modifier, compléter ou détourner le contenu et la forme de ce guide."/>
+                <para PARENT="Labeur"/>
+                <tab/>
+                <trail PARENT="Labeur"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="676.483569553806" YPOS="5142.20346456693" OwnPage="16" ItemID="201490192" PTYPE="4" WIDTH="222.57217847769" HEIGHT="515.275590551183" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L222.572 0 L222.572 515.276 L0 515.276 L0 0 Z" copath="M0 0 L222.572 0 L222.572 515.276 L0 515.276 L0 0 Z" gXpos="676.483569553806" gYpos="1965.82551181102" gWidth="0" gHeight="0" PSTYLE="Labeur" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Labeur"/>
+                <ITEXT FONT="VG5000 Regular" CH="⏯"/>
+                <ITEXT CH=" Démarrage"/>
+                <para PARENT="Titre principal"/>
+                <ITEXT CH="Installation et ouverture"/>
+                <para PARENT="Titre partie"/>
+                <tab/>
+                <ITEXT CH="Si ce n'est pas dé­jà fait, il faut ins­tal­ler Scri­bus sur ton or­di­na­teur. Il suf­fit de te rendre sur "/>
+                <ITEXT CPARENT="Logiciel " CH="scri­bus.­net/down­loads"/>
+                <ITEXT CH="."/>
+                <para PARENT="Labeur"/>
+                <tab/>
+                <ITEXT CH="Tu peux choi­sir la ver­sion stable qui contient moins de fonc­tion­na­li­tés mais qui ne contient pas de bugs, ou la ver­sion plus ré­cente qui contient plus de fonc­tion­na­li­tés mais qui risque d'être moins stable."/>
+                <para PARENT="Labeur"/>
+                <tab/>
+                <ITEXT CH="Ouvre Scri­bus. Si un mes­sage s'af­fiche in­di­quant que Ghosts­cript n'est pas ins­tal­lé mais que tu dé­butes, tu peux l'igno­rer. Si­non, ins­talle Ghosts­cript comme un grand, je te fais confiance."/>
+                <para PARENT="Labeur"/>
+                <ITEXT CPARENT="Default Character Style" CH="C"/>
+                <ITEXT CH="réation d'un document"/>
+                <para PARENT="Titre partie"/>
+                <ITEXT CH="Dans la fe­nêtre Nou­veau Do­cu­ment, pa­ra­mètre ton édi­tion :"/>
+                <para PARENT="Labeur"/>
+                <ITEXT CPARENT="Logiciel " CH="✓"/>
+                <tab CPARENT="Logiciel "/>
+                <ITEXT CPARENT="Logiciel " CH="Page simple : "/>
+                <ITEXT CH="dis­po­si­tion des pages les une au des­sus des autres"/>
+                <para PARENT="Labeur"/>
+                <ITEXT CPARENT="Logiciel " CH="✓"/>
+                <tab CPARENT="Logiciel "/>
+                <ITEXT CPARENT="Logiciel " CH="Pages en vis-à-vis :"/>
+                <ITEXT CH=" dis­po­si­tion des pages côte à côte par deux comme dans un livre."/>
+                <para PARENT="Labeur"/>
+                <ITEXT FONT="VG5000 Regular" CH="✓"/>
+                <tab/>
+                <ITEXT CPARENT="Logiciel " CH="Taille :"/>
+                <ITEXT CH=" for­mat fi­nal sou­hai­té de l'édi­tion, au choix par­mi des stan­dards ou per­son­na­li­sable."/>
+                <para PARENT="Labeur"/>
+                <ITEXT CH="Orien­ta­tion : Pay­sage/Por­trait"/>
+                <para PARENT="Labeur"/>
+                <ITEXT FONT="VG5000 Regular" CH="✓"/>
+                <ITEXT CH=" "/>
+                <ITEXT CPARENT="Logiciel " CH="Uni­té par dé­faut "/>
+                <ITEXT CH=": à choi­sir en fonc­tion de tes pré­fé­rences. "/>
+                <para PARENT="Labeur"/>
+                <ITEXT FONT="VG5000 Regular" CH="✓"/>
+                <tab/>
+                <ITEXT CPARENT="Logiciel " CH="Marges :"/>
+                <ITEXT CH=" marges af­fi­chées sur ton do­cu­ment"/>
+                <para PARENT="Labeur"/>
+                <ITEXT FONT="VG5000 Regular" CH="✓"/>
+                <tab/>
+                <ITEXT CPARENT="Logiciel " CH="Fond per­du :"/>
+                <ITEXT CH=" zone im­pri­mée au-de­là des li­mites du do­cu­ment, per­met­tant au mo­ment du mas­si­co­tage de l'ob­jet fi­ni, d'avoir des images qui font jus­qu'au bord de la feuille."/>
+                <para PARENT="Labeur"/>
+                <ITEXT FONT="VG5000 Regular" CH="✓"/>
+                <tab/>
+                <ITEXT CPARENT="Logiciel " CH="Nombre de pages"/>
+                <para PARENT="Labeur"/>
+                <ITEXT FONT="VG5000 Regular" CH="✓"/>
+                <tab/>
+                <ITEXT CPARENT="Logiciel " CH="Cadre de texte au­to­ma­tique :"/>
+                <ITEXT CH=" per­met d'ajou­ter au­to­ma­ti­que­ment un cadre de texte iden­tique sur chaque page créée lors de la créa­tion du do­cu­ment."/>
+                <para PARENT="Labeur"/>
+                <para PARENT="Labeur"/>
+                <ITEXT CH="Une fois les ré­glages sou­hai­tés ef­fec­tués "/>
+                <ITEXT CPARENT="Logiciel " CH="&gt; OK"/>
+                <para PARENT="Labeur"/>
+                <para PARENT="Labeur"/>
+                <ITEXT CH="Tout ces paramètres sont modifiables par la suite dans :"/>
+                <para PARENT="Labeur"/>
+                <ITEXT CPARENT="Logiciel " FONT="VG5000 Regular" CH="⬉"/>
+                <ITEXT CPARENT="Logiciel " CH=" Fichier &gt; Réglages du document"/>
+                <para PARENT="Labeur logiciel"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="559.528188976378" YPOS="3939.78661590378" OwnPage="12" ItemID="201493024" PTYPE="4" WIDTH="76.9999999999999" HEIGHT="27.217582417582" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L77 0 L77 27.2176 L0 27.2176 L0 0 Z" copath="M0 0 L77 0 L77 27.2176 L0 27.2176 L0 0 Z" gXpos="559.528188976378" gYpos="3939.78661590378" gWidth="0" gHeight="0" PSTYLE="Commentaires" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Commentaires"/>
+                <para PARENT="Commentaires"/>
+                <ITEXT CH="Raccourci à savoir !"/>
+                <trail PARENT="Commentaires"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="647.244724409449" YPOS="3867.00499437571" OwnPage="12" ItemID="201615760" PTYPE="4" WIDTH="251.811023622047" HEIGHT="320.88087516533" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L251.811 0 L251.811 320.881 L0 320.881 L0 0 Z" copath="M0 0 L251.811 0 L251.811 320.881 L0 320.881 L0 0 Z" gXpos="647.244724409449" gYpos="3867.00499437571" gWidth="0" gHeight="0" PSTYLE="Labeur" LAYER="0" NEXTITEM="205465312" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Labeur"/>
+                <ITEXT FONT="VG5000 Regular" Unicode="55357"/>
+                <ITEXT FONT="VG5000 Regular" Unicode="56492"/>
+                <ITEXT CH=" Texte"/>
+                <para PARENT="Titre principal"/>
+                <ITEXT CH="Cadre de texte"/>
+                <para PARENT="Titre partie"/>
+                <ITEXT CH="Main­te­nant que nous avons une grille sur la­quelle nous ba­ser, nous pou­vons créer des élé­ments à pla­cer sur la page. Com­men­çons par le texte."/>
+                <para PARENT="Labeur"/>
+                <para PARENT="Labeur"/>
+                <ITEXT CPARENT="Logiciel " FONT="VG5000 Regular" CH="⬉"/>
+                <ITEXT CPARENT="Logiciel " CH=" Icône Cadre de texte ou T"/>
+                <para PARENT="Labeur logiciel"/>
+                <para PARENT="Labeur"/>
+                <ITEXT CH="Clique-glisse pour créer un cadre de texte. Pour le premier cadre c'est relou de le mettre bien comme il faut, il &quot;n'accroche&quot; pas aux repères... Le réglage essentiel c'est:"/>
+                <para PARENT="Labeur"/>
+                <para PARENT="Labeur"/>
+                <ITEXT CPARENT="Logiciel " FONT="VG5000 Regular" CH="⬉"/>
+                <ITEXT CPARENT="Logiciel " CH="  Page &gt; Repères magnétiques "/>
+                <para PARENT="Labeur logiciel"/>
+                <ITEXT CPARENT="Logiciel " FONT="VG5000 Regular" CH="⬉"/>
+                <ITEXT CPARENT="Logiciel " CH="  Page &gt; Objets magnétiques"/>
+                <para PARENT="Labeur logiciel"/>
+                <para PARENT="Labeur"/>
+                <ITEXT CH="Vous pouvez maintenant aligner à la perfection le cadre de texte. Zoomez suffisamment pour être précis. Pour placer un grand texte sur plusieurs pages, donc plusieurs bloc texte, il faut les lier entre eux. Sélectionnez les cadres à lier puis :"/>
+                <para PARENT="Labeur"/>
+                <para PARENT="Labeur"/>
+                <ITEXT CPARENT="Logiciel " CH="⬉ Objet &gt; Liens de cadre de texte &gt; Lier les cadre de "/>
+                <tab CPARENT="Logiciel "/>
+                <ITEXT CPARENT="Logiciel " CH="texte (N)"/>
+                <para PARENT="Labeur logiciel"/>
+                <ITEXT CPARENT="Logiciel " CH="⬉ Objet &gt; Liens de cadre de texte &gt; Délier les cadre de texte (U)"/>
+                <para PARENT="Labeur logiciel"/>
+                <para PARENT="Labeur"/>
+                <ITEXT CH="Pour visualiser les liens entre les bloc texte"/>
+                <para PARENT="Labeur"/>
+                <ITEXT CPARENT="Logiciel " FONT="VG5000 Regular" CH="⬉"/>
+                <ITEXT CPARENT="Logiciel " CH=" Affichage &gt; Cadre de texte &gt; Afficher les liens entre les cadres"/>
+                <para PARENT="Labeur logiciel"/>
+                <para PARENT="Labeur"/>
+                <ITEXT CH="Grille d'interlignage"/>
+                <para PARENT="Labeur"/>
+                <ITEXT CPARENT="Logiciel " FONT="VG5000 Regular" CH="⬉"/>
+                <ITEXT CPARENT="Logiciel " CH=" Affigache &gt; Cadre de texte &gt; Grille d'interlignage"/>
+                <para PARENT="Labeur logiciel"/>
+                <ITEXT CH="La valeur de la grille d'interlignage doit correspondre au maximum à l'interlignage du texte de labeur. En fonction des autres niveau de lecture, tu peux la diviser par deux."/>
+                <para PARENT="Labeur"/>
+                <ITEXT CH="La question de la grille d'interlignage est importante pour avoir du texte toujours aligné horizontalement sur le même ligne virtuelle. Cela demande du temps au début pour un ajustement optimal."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="676.345936790146" YPOS="2601.10236220473" OwnPage="8" ItemID="201618592" PTYPE="4" WIDTH="222.57217847769" HEIGHT="515.275590551177" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L222.572 0 L222.572 515.276 L0 515.276 L0 0 Z" copath="M0 0 L222.572 0 L222.572 515.276 L0 515.276 L0 0 Z" gXpos="676.345936790146" gYpos="3236.37763779527" gWidth="0" gHeight="0" PSTYLE="Labeur" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Labeur"/>
+                <ITEXT FONT="VG5000 Regular" Unicode="55357"/>
+                <ITEXT FONT="VG5000 Regular" Unicode="56764"/>
+                <ITEXT CH=" Images"/>
+                <para PARENT="Titre principal"/>
+                <ITEXT CH="Cadre d'image"/>
+                <para PARENT="Titre partie"/>
+                <ITEXT CH="Et si on mettait une jolie image ? sur la page gauche ? De la même façon que tu as créé un cadre de texte :"/>
+                <para PARENT="Labeur"/>
+                <para PARENT="Labeur"/>
+                <ITEXT CPARENT="Logiciel " CH="⬉ Icône Cadre d'image ou I "/>
+                <ITEXT CH="(raccourci à savoir)"/>
+                <para PARENT="Labeur logiciel" LINESPMode="2"/>
+                <ITEXT CH="Après avoir créé un cadre d'image aux dimentions souhaitées, tu peux glisser-déposer une image à l'intérieur depuis le navigateur de fichier."/>
+                <para PARENT="Labeur"/>
+                <para PARENT="Labeur"/>
+                <ITEXT CH="Réglages image"/>
+                <para PARENT="Titre partie"/>
+                <ITEXT CH="L'image ne s'intègre pas bien dans le cadre par défaut. Dans le menu "/>
+                <ITEXT CPARENT="Logiciel " CH="Propriété de l'image (F3)"/>
+                <ITEXT CH=" tu as plusieurs réglages à ta disposition :"/>
+                <para PARENT="Labeur"/>
+                <para PARENT="Labeur"/>
+                <ITEXT CPARENT="Logiciel " CH="⬉ Mise à l'échelle"/>
+                <para PARENT="Labeur logiciel" LINESPMode="2"/>
+                <ITEXT CH="Tu peux ajuster manuellement la taille de ton image dans le cadre avec "/>
+                <ITEXT CPARENT="Logiciel " CH="Mise à l'échelle libre"/>
+                <ITEXT CH="  ou faire entrer l'image entièrement dans le cadre avec "/>
+                <ITEXT CPARENT="Logiciel " CH="Aux dimensions du cadre"/>
+                <ITEXT CH=". Si ton image est très grande, commence par cocher "/>
+                <ITEXT CPARENT="Logiciel " CH="Aux dimensions du cadre"/>
+                <ITEXT CH=" avant d'ajuster "/>
+                <ITEXT CPARENT="Logiciel " CH="Avec Mise à l'échelle libre."/>
+                <para PARENT="Labeur"/>
+                <para PARENT="Labeur"/>
+                <ITEXT CPARENT="Logiciel " CH="⬉ Résolution"/>
+                <para PARENT="Labeur logiciel" LINESPMode="2"/>
+                <ITEXT CH="Pour une publication imprimée, il faut que la résolution de l'image soit de 300(dpi). Sinon l'image sera pixelisée en sortie d'imprimante. Si elle n'est pas très grande, tu peux descendre jusqu'à 150 minimum."/>
+                <para/>
+                <para/>
+                <ITEXT CPARENT="Logiciel " CH="⬉"/>
+                <ITEXT CH=" Déplacement"/>
+                <para PARENT="Labeur logiciel" LINESPMode="2"/>
+                <ITEXT CH="Pour déplacer l'image dans le cadre, double-clic sur ce dernier. L'image apparait alors avec un cadre bleu. Tu peux la déplacer librement."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140.00062992126" YPOS="2601.10236220473" OwnPage="7" ItemID="201495856" PTYPE="2" WIDTH="339.527559055118" HEIGHT="201.68829627066" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.176837270341207" LOCALSCY="0.176837270341207" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="images/mon-interface.PNG" PRFILE="Embedded sRGB built-in" IRENDER="0" EPROF="Embedded sRGB built-in" path="M0 0 L339.528 0 L339.528 201.688 L0 201.688 L0 0 Z" copath="M0 0 L339.528 0 L339.528 201.688 L0 201.688 L0 0 Z" gXpos="140.00062992126" gYpos="2601.10236220473" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="676.483569553806" YPOS="1965.82708661417" OwnPage="6" ItemID="205473808" PTYPE="4" WIDTH="222.57217847769" HEIGHT="531.238362204729" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L222.572 0 L222.572 531.238 L0 531.238 L0 0 Z" copath="M0 0 L222.572 0 L222.572 531.238 L0 531.238 L0 0 Z" gXpos="676.483569553806" gYpos="1965.82708661417" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="VG5000 Regular" CH="☄"/>
+                <ITEXT CH=" Cou­leurs"/>
+                <para PARENT="Titre principal"/>
+                <ITEXT CH="Ges­tion des cou­leurs"/>
+                <para PARENT="Titre partie"/>
+                <ITEXT CH="Scri­bus or­ga­nise les cou­leurs par pa­lettes. Il faut donc dé­fi­nir les cou­leurs de ton pro­jet. Mais pas de pa­nique, tu pour­ras tou­jours les mo­di­fier par la suite. Les mo­di­fi­ca­tions dans la pa­lette s'ap­pli­que­ront im­mé­dia­te­ment aux ob­jets concer­nés. La pa­lette de ton pro­jet peut être créée de zéro ou uti­li­ser des cou­leurs de pa­lettes  pré­ins­tal­lées. D'un point de vue pro­fe­sion­nel, pour les pro­jets im­pri­més, il peut être in­té­res­sant de tra­vailler avec une pa­lette de cou­leurs nu­mé­rique en par­ral­lèle avec un nuan­cier pa­pier cor­res­pon­dant."/>
+                <para PARENT="Labeur"/>
+                <para PARENT="Labeur"/>
+                <ITEXT CH="Ici tu va voir com­ment créer des cou­leur uniques pour ton pro­jet. Deux prin­ci­paux me­nus vont nous in­té­res­ser :"/>
+                <para PARENT="Labeur"/>
+                <para PARENT="Labeur"/>
+                <ITEXT CPARENT="Logiciel " CH="⬉"/>
+                <ITEXT CH=" Edi­tion &gt; Cou­leurs et fonds..."/>
+                <para PARENT="Labeur logiciel" LINESPMode="2"/>
+                <ITEXT CH="Ce menu offre une vi­sion glo­bale de tes pa­lettes."/>
+                <para PARENT="Labeur"/>
+                <tab FONT="VG5000 Regular"/>
+                <ITEXT FONT="VG5000 Regular" CH="✓"/>
+                <ITEXT CPARENT="Logiciel " CH="Ajou­ter"/>
+                <ITEXT CH=" te per­met d'ajou­ter une cou­leur. En fonc­tion du sup­port (im­pri­mé ou nu­mé­rique) tu de­vras choi­sir l"/>
+                <para PARENT="Labeur"/>
+                <tab FONT="VG5000 Regular"/>
+                <ITEXT FONT="VG5000 Regular" CH="✓"/>
+                <ITEXT CPARENT="Logiciel " CH="Ef­fa­cer les cou­leurs in­uti­li­sées"/>
+                <ITEXT CH=" te per­met d'en­le­ver de ta liste les cou­leurs qui ne sont pas dans ton pro­jet"/>
+                <para PARENT="Labeur"/>
+                <tab FONT="VG5000 Regular"/>
+                <ITEXT FONT="VG5000 Regular" CH="✓"/>
+                <ITEXT CPARENT="Logiciel " CH="Sup­pri­me"/>
+                <ITEXT CH=" sup­prime dé­fi­ni­ti­ve­ment une cou­leur sans pos­si­bi­li­té de re­tour en ar­rière "/>
+                <para PARENT="Labeur"/>
+                <tab FONT="VG5000 Regular"/>
+                <ITEXT FONT="VG5000 Regular" CH="✓"/>
+                <ITEXT CPARENT="Logiciel " CH="Im­por­ter"/>
+                <ITEXT CH=" te per­met no­tam­ment d'im­por­ter les cou­leurs d'un autre fi­chier Scri­bus."/>
+                <para PARENT="Labeur"/>
+                <para PARENT="Labeur logiciel" LINESPMode="2"/>
+                <ITEXT CPARENT="Logiciel " CH="⬉"/>
+                <ITEXT CH=" Ex­tra &gt; Cercle Chro­ma­tique..."/>
+                <para PARENT="Labeur logiciel" LINESPMode="2"/>
+                <ITEXT CH="Ce menu offre la pos­si­bi­li­té de créer des har­mo­nies co­lo­rées fa­ci­le­ment, sans uti­li­ser d'ou­til ex­terne. Plu­sieurs "/>
+                <ITEXT CPARENT="Logiciel " CH="types de mo­dèles de cou­leurs"/>
+                <ITEXT CH=" te per­mettent de va­rier les com­bi­nai­sons co­lo­rées se­lon des for­mules dif­fé­rentes. Libre à toi d'ex­plo­rer ces pos­si­bi­li­tés !"/>
+                <para PARENT="Labeur"/>
+                <para PARENT="Labeur"/>
+                <ITEXT CH="Main­te­nant que tu as créé tes cou­leurs, tu peux les ap­pli­quer à tes ob­jets via les menus correspondants à l'élément que tu souhaite coloriser."/>
+                <trail PARENT="Labeur"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="256.956010498688" YPOS="1965.82708661417" OwnPage="5" ItemID="205468144" PTYPE="4" WIDTH="222.57217847769" HEIGHT="515.275590551181" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L222.572 0 L222.572 515.276 L0 515.276 L0 0 Z" copath="M0 0 L222.572 0 L222.572 515.276 L0 515.276 L0 0 Z" gXpos="256.956010498688" gYpos="1965.82708661417" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="VG5000 Regular" CH="✉"/>
+                <ITEXT CH=" Export"/>
+                <para PARENT="Titre principal"/>
+                <ITEXT CH="Export PDF"/>
+                <para PARENT="Titre partie"/>
+                <ITEXT CH="Pour partager numériquement, pour imprimer ou faire imprimer ton zine facilement, il faut l'exporter en PDF (Portable Document File)."/>
+                <para PARENT="Labeur"/>
+                <para PARENT="Labeur logiciel"/>
+                <ITEXT CH="Ficher &gt; Exporter &gt; Enregistrer en PDF"/>
+                <para PARENT="Labeur logiciel"/>
+                <para PARENT="Labeur"/>
+                <ITEXT CH="Une fenêtre "/>
+                <ITEXT CPARENT="Logiciel " CH="Vérificateur"/>
+                <ITEXT CH=" apparait alors. Il indique les erreurs présentes dans le document. Si tu pense ne pas avoir fait d'erreurs, vérifie aux pages indiquées ce qu'il t'indique."/>
+                <para PARENT="Labeur"/>
+                <para PARENT="Labeur"/>
+                <ITEXT CH="Pour continuer malgré les erreurs : "/>
+                <ITEXT CPARENT="Logiciel " CH="Ignorer les erreurs."/>
+                <para PARENT="Labeur"/>
+                <para PARENT="Labeur"/>
+                <ITEXT CH="La fenêtre Enregister en PDF comporte de nombreuses options. Je vais m'attarder sur les plus importantes :"/>
+                <para PARENT="Labeur"/>
+                <para PARENT="Labeur"/>
+                <ITEXT CPARENT="Logiciel " CH="⬉"/>
+                <ITEXT CH=" Général"/>
+                <para PARENT="Labeur logiciel" LINESPMode="2"/>
+                <ITEXT CPARENT="Logiciel " CH="⬉ Compression des images"/>
+                <para PARENT="Labeur logiciel" LINESPMode="2"/>
+                <tab/>
+                <ITEXT CPARENT="Logiciel " CH="✓"/>
+                <ITEXT CH="300ppp max pour impression"/>
+                <para PARENT="Labeur"/>
+                <tab/>
+                <ITEXT CPARENT="Logiciel " CH="✓"/>
+                <ITEXT CH="96ppp pour visualisation sur ordinateur"/>
+                <para PARENT="Labeur"/>
+                <tab/>
+                <ITEXT CPARENT="Logiciel " CH="✓"/>
+                <ITEXT CH="Privilégier la compression jpeg pour un fichier léger"/>
+                <para PARENT="Labeur"/>
+                <para PARENT="Labeur"/>
+                <ITEXT CPARENT="Logiciel " CH="⬉"/>
+                <ITEXT CH=" Polices"/>
+                <para PARENT="Labeur logiciel" LINESPMode="2"/>
+                <ITEXT CPARENT="Logiciel " CH="⬉"/>
+                <ITEXT CH=" Mode d'incorporation"/>
+                <para PARENT="Labeur logiciel" LINESPMode="2"/>
+                <tab/>
+                <ITEXT CPARENT="Logiciel " CH="✓"/>
+                <ITEXT CH="Vectoriser les polices"/>
+                <para PARENT="Labeur"/>
+                <ITEXT CH="Très important pour pouvoir assurer une autonomie technique du fichier sur des ordinateurs qui n'auraient pas les polices installées"/>
+                <para PARENT="Labeur"/>
+                <para PARENT="Labeur logiciel" LINESPMode="2"/>
+                <ITEXT CPARENT="Logiciel " CH="⬉"/>
+                <ITEXT CH=" Pré-presse"/>
+                <para PARENT="Labeur logiciel" LINESPMode="2"/>
+                <ITEXT CPARENT="Logiciel " CH="⬉"/>
+                <ITEXT CH=" Traits de coupe"/>
+                <para PARENT="Labeur logiciel" LINESPMode="2"/>
+                <ITEXT CH="Affichez des traits de coupe si nécessaire. Vous pouvez aussi régler leur "/>
+                <ITEXT CPARENT="Logiciel " CH="taille sur 5mm"/>
+                <ITEXT CH=" ce qui est largement suffisant."/>
+                <para PARENT="Labeur"/>
+                <ITEXT CPARENT="Logiciel " CH="⬉"/>
+                <ITEXT CH=" Paramètres du fond perdu"/>
+                <para PARENT="Labeur logiciel" LINESPMode="2"/>
+                <ITEXT CH="Si vous avez rélglé un fond perdu, cochez la case "/>
+                <ITEXT CPARENT="Logiciel " CH="Fond perdu du document"/>
+                <ITEXT CH=" pour utiliser ces paramètres."/>
+                <trail PARENT="Labeur"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="559.528188976378" YPOS="4193.44498745349" OwnPage="12" ItemID="205465312" PTYPE="4" WIDTH="251.811023622047" HEIGHT="39.4940728562833" FRTYPE="0" CLIPEDIT="0" PWIDTH="1.00062992125984" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L251.811 0 L251.811 39.4941 L0 39.4941 L0 0 Z" copath="M0 0 L251.811 0 L251.811 39.4941 L0 39.4941 L0 0 Z" gXpos="559.528188976378" gYpos="4193.44498745349" gWidth="0" gHeight="0" PSTYLE="Labeur" LAYER="0" NEXTITEM="205490800" BACKITEM="201615760"/>
+        <PAGEOBJECT XPOS="647.244724409449" YPOS="4258.09999826945" OwnPage="12" ItemID="205490800" PTYPE="4" WIDTH="251.811023622047" HEIGHT="128.82850566756" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L251.811 0 L251.811 128.829 L0 128.829 L0 0 Z" copath="M0 0 L251.811 0 L251.811 128.829 L0 128.829 L0 0 Z" gXpos="647.244724409449" gYpos="4258.09999826945" gWidth="0" gHeight="0" PSTYLE="Labeur" LAYER="0" NEXTITEM="-1" BACKITEM="205465312"/>
+        <PAGEOBJECT XPOS="773.150236220473" YPOS="4187.88586954104" OwnPage="12" ItemID="207529008" PTYPE="5" WIDTH="87.8925160656234" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" ROT="176.373675964607" PWIDTH="0" SHADE="0" PCOLOR2="Black" PLINEART="1" path="" endArrowIndex="3" endArrowScale="170" gXpos="763.265721784777" gYpos="4176.32367569439" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="685.433700787402" YPOS="4232.93906030978" OwnPage="12" ItemID="207533792" PTYPE="5" WIDTH="91.2538403980448" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" ROT="16.0052063229804" PWIDTH="0" SHADE="0" PCOLOR2="Black" PLINEART="1" path="" endArrowIndex="3" endArrowScale="170" gXpos="783.320135667027" gYpos="4257.39774335901" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="559.528188976378" YPOS="5451.92862161461" OwnPage="16" ItemID="205487968" PTYPE="4" WIDTH="105.616797900262" HEIGHT="33.7582417582416" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L105.617 0 L105.617 33.7582 L0 33.7582 L0 0 Z" copath="M0 0 L105.617 0 L105.617 33.7582 L0 33.7582 L0 0 Z" gXpos="559.528188976378" gYpos="5451.92862161461" gWidth="0" gHeight="0" PSTYLE="Commentaires" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Commentaires"/>
+                <ITEXT CPARENT="Commentaire" CH="J'uti­lise mi­li­mètres"/>
+                <trail PARENT="Commentaires"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="559.528188976378" YPOS="5537.65228346457" OwnPage="16" ItemID="205493632" PTYPE="4" WIDTH="105.616797900262" HEIGHT="48.1889763779545" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L105.617 0 L105.617 48.189 L0 48.189 L0 0 Z" copath="M0 0 L105.617 0 L105.617 48.189 L0 48.189 L0 0 Z" gXpos="559.528188976378" gYpos="5537.65228346457" gWidth="0" gHeight="0" PSTYLE="Commentaires" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Commentaires"/>
+                <ITEXT CPARENT="Commentaire" CH="Peut être utile si vous met­tez en page "/>
+                <breakline/>
+                <ITEXT CPARENT="Commentaire" CH="un ro­man."/>
+                <trail PARENT="Commentaires"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="559.528188976378" YPOS="4828.98670638698" OwnPage="14" ItemID="205470976" PTYPE="4" WIDTH="105.616797900262" HEIGHT="37.52590266876" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L105.617 0 L105.617 37.5259 L0 37.5259 L0 0 Z" copath="M0 0 L105.617 0 L105.617 37.5259 L0 37.5259 L0 0 Z" gXpos="559.528188976378" gYpos="4828.98670638698" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Utile pour po­si­tion­ner du texte"/>
+                <trail PARENT="Commentaires"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="559.528188976378" YPOS="4892.98670638698" OwnPage="14" ItemID="205476640" PTYPE="4" WIDTH="105.616797900262" HEIGHT="71.6737660539666" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L105.617 0 L105.617 71.6738 L0 71.6738 L0 0 Z" copath="M0 0 L105.617 0 L105.617 71.6738 L0 71.6738 L0 0 Z" gXpos="559.528188976378" gYpos="4892.98670638698" gWidth="105.617" gHeight="13.139251390598" PSTYLE="Commentaires" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Commentaires"/>
+                <ITEXT CH="Cette double page "/>
+                <breakline/>
+                <ITEXT CH="a 3 colonnes à droite "/>
+                <breakline/>
+                <ITEXT CH="et 4 à gauche !"/>
+                <trail PARENT="Commentaires"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="559.528188976378" YPOS="4111.78661590378" OwnPage="12" ItemID="205479472" PTYPE="4" WIDTH="76.9999999999999" HEIGHT="31.4821147356606" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L77 0 L77 31.4821 L0 31.4821 L0 0 Z" copath="M0 0 L77 0 L77 31.4821 L0 31.4821 L0 0 Z" gXpos="559.528188976378" gYpos="4111.78661590378" gWidth="0" gHeight="0" PSTYLE="Commentaires" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Commentaires"/>
+                <para PARENT="Commentaires"/>
+                <ITEXT CH="Raccourcis à savoir !"/>
+                <trail PARENT="Commentaires"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140.00062992126" YPOS="2856.0094488189" OwnPage="7" ItemID="201587136" PTYPE="12" WIDTH="339.527559055118" HEIGHT="160.320000000001" FRTYPE="0" CLIPEDIT="0" ANNAME="Groupe 5" groupWidth="222.459165030314" groupHeight="59.0306565434357" groupClips="1" path="M0 0 L339.528 0 L339.528 160.32 L0 160.32 L0 0 Z" copath="M0 0 L339.528 0 L339.528 160.32 L0 160.32 L0 0 Z" gXpos="140.00062992126" gYpos="2856.0094488189" gWidth="0" gHeight="0" LAYER="0">
+            <PAGEOBJECT XPOS="140.12062992126" YPOS="2856.62544928678" OwnPage="7" ItemID="201589856" PTYPE="6" WIDTH="222.070853295737" HEIGHT="58.1856257802948" FRTYPE="0" CLIPEDIT="1" PWIDTH="0" PCOLOR2="Black" PLINEART="1" path="M0 0 L222.071 0 L222.071 58.1856 L0 58.1856 L0 0 Z" copath="M0 0 L222.071 0 L222.071 58.1856 L0 58.1856 L0 0 Z" gXpos="0.120000000000005" gYpos="0.616000467887716" gWidth="222.459165030314" gHeight="59.0306565434357" LAYER="0"/>
+            <PAGEOBJECT XPOS="140.422356256459" YPOS="2914.92410489441" OwnPage="7" ItemID="201594640" PTYPE="5" WIDTH="229.661193492789" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" ROT="345.165761006554" PWIDTH="0" PCOLOR2="Black" PLINEART="1" path="" gXpos="0.421726335198969" gYpos="58.914656075518" gWidth="222.459165030314" gHeight="59.0306565434357" LAYER="0"/>
+            <PAGEOBJECT XPOS="362.429072135185" YPOS="2914.92410489442" OwnPage="7" ItemID="206151808" PTYPE="5" WIDTH="229.661193492788" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" ROT="194.834238993446" PWIDTH="0" PCOLOR2="Black" PLINEART="1" path="" gXpos="222.428442213925" gYpos="58.914656075528" gWidth="222.459165030314" gHeight="59.0306565434357" LAYER="0"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="373.911391076116" YPOS="3023.97674157896" OwnPage="7" ItemID="205482304" PTYPE="4" WIDTH="105.616797900262" HEIGHT="43.5887096627112" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L105.617 0 L105.617 43.5887 L0 43.5887 L0 0 Z" copath="M0 0 L105.617 0 L105.617 43.5887 L0 43.5887 L0 0 Z" gXpos="373.911391076116" gYpos="3023.97674157896" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Cadre d'image à compléter toi-même"/>
+                <trail PARENT="Commentaires"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="362.57280839895" YPOS="2802.79065847539" OwnPage="7" ItemID="205485136" PTYPE="4" WIDTH="116.955380577428" HEIGHT="43.5887096627112" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L116.955 0 L116.955 43.5887 L0 43.5887 L0 0 Z" copath="M0 0 L116.955 0 L116.955 43.5887 L0 43.5887 L0 0 Z" gXpos="362.57280839895" gYpos="2802.79065847539" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Mon interface de Scribus"/>
+                <trail PARENT="Commentaires"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="228.042879640045" YPOS="4755.86889168968" OwnPage="13" ItemID="206156592" PTYPE="6" WIDTH="33.6113731023814" HEIGHT="49.9865541916846" FRTYPE="0" CLIPEDIT="1" PWIDTH="0" PCOLOR2="Black" PLINEART="1" path="M0 0 L33.6114 0 L33.6114 49.9866 L0 49.9866 L0 0 Z" copath="M0 0 L33.6114 0 L33.6114 49.9866 L0 49.9866 L0 0 Z" gXpos="228.042879640045" gYpos="4755.86889168968" gWidth="33.6113731023814" gHeight="49.9865541916846" LAYER="0"/>
+        <PAGEOBJECT XPOS="270.123745007855" YPOS="4755.86889168968" OwnPage="13" ItemID="206159312" PTYPE="6" WIDTH="33.6113731023814" HEIGHT="49.9865541916846" FRTYPE="0" CLIPEDIT="1" PWIDTH="0" PCOLOR2="Black" PLINEART="1" path="M0 0 L33.6114 0 L33.6114 49.9866 L0 49.9866 L0 0 Z" copath="M0 0 L33.6114 0 L33.6114 49.9866 L0 49.9866 L0 0 Z" gXpos="270.123745007855" gYpos="4755.86889168968" gWidth="33.6113731023814" gHeight="49.9865541916846" LAYER="0"/>
+        <PAGEOBJECT XPOS="270.123745007855" YPOS="4698.87902396815" OwnPage="13" ItemID="206163072" PTYPE="6" WIDTH="33.6113731023814" HEIGHT="49.9865541916846" FRTYPE="0" CLIPEDIT="1" PWIDTH="0" PCOLOR2="Black" PLINEART="1" path="M0 0 L33.6114 0 L33.6114 49.9866 L0 49.9866 L0 0 Z" copath="M0 0 L33.6114 0 L33.6114 49.9866 L0 49.9866 L0 0 Z" gXpos="270.123745007855" gYpos="4698.87902396815" gWidth="33.6113731023814" gHeight="49.9865541916846" LAYER="0"/>
+        <PAGEOBJECT XPOS="228.042879640045" YPOS="4814.48912206778" OwnPage="13" ItemID="207815072" PTYPE="6" WIDTH="33.6113731023814" HEIGHT="49.9865541916846" FRTYPE="0" CLIPEDIT="1" PWIDTH="0" PCOLOR2="Black" PLINEART="1" path="M0 0 L33.6114 0 L33.6114 49.9866 L0 49.9866 L0 0 Z" copath="M0 0 L33.6114 0 L33.6114 49.9866 L0 49.9866 L0 0 Z" gXpos="228.042879640045" gYpos="4814.48912206778" gWidth="33.6113731023814" gHeight="49.9865541916846" LAYER="0"/>
+        <PAGEOBJECT XPOS="270.123745007855" YPOS="4814.48912206778" OwnPage="13" ItemID="207826400" PTYPE="6" WIDTH="33.6113731023814" HEIGHT="49.9865541916846" FRTYPE="0" CLIPEDIT="1" PWIDTH="0" PCOLOR2="Black" PLINEART="1" path="M0 0 L33.6114 0 L33.6114 49.9866 L0 49.9866 L0 0 Z" copath="M0 0 L33.6114 0 L33.6114 49.9866 L0 49.9866 L0 0 Z" gXpos="270.123745007855" gYpos="4814.48912206778" gWidth="33.6113731023814" gHeight="49.9865541916846" LAYER="0"/>
+        <PAGEOBJECT XPOS="228.042879640045" YPOS="4871.48104120504" OwnPage="13" ItemID="207806576" PTYPE="6" WIDTH="33.6113731023814" HEIGHT="49.9865541916846" FRTYPE="0" CLIPEDIT="1" PWIDTH="0" PCOLOR2="Black" PLINEART="1" path="M0 0 L33.6114 0 L33.6114 49.9866 L0 49.9866 L0 0 Z" copath="M0 0 L33.6114 0 L33.6114 49.9866 L0 49.9866 L0 0 Z" gXpos="228.042879640045" gYpos="4871.48104120504" gWidth="33.6113731023814" gHeight="49.9865541916846" LAYER="0"/>
+        <PAGEOBJECT XPOS="140.00062992126" YPOS="4926.42340676646" OwnPage="13" ItemID="207809408" PTYPE="4" WIDTH="163.794488188976" HEIGHT="95.7803727610981" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L163.794 0 L163.794 95.7804 L0 95.7804 L0 0 Z" copath="M0 0 L163.794 0 L163.794 95.7804 L0 95.7804 L0 0 Z" gXpos="140.00062992126" gYpos="4926.42340676646" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Le shéma ci-dessus représente les pages de ton édition. Il s'agit d'un &quot;chemin de fer&quot;."/>
+                <trail PARENT="Commentaires"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="256.956010498688" YPOS="3871.65291338583" OwnPage="11" ItemID="207823568" PTYPE="4" WIDTH="222.57217847769" HEIGHT="458.45362920544" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L222.572 0 L222.572 458.454 L0 458.454 L0 0 Z" copath="M0 0 L222.572 0 L222.572 458.454 L0 458.454 L0 0 Z" gXpos="256.956010498688" gYpos="3871.65291338583" gWidth="0" gHeight="0" PSTYLE="Labeur" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Labeur"/>
+                <ITEXT CH="Césure"/>
+                <para PARENT="Titre partie"/>
+                <ITEXT CH="Quand le texte est co­pié ou tapé dans le bloc texte, les cé­sures ne se font pas au­to­ma­ti­que­ment. Les cé­sures per­mettent au mots d'êtres cou­pés et d'évi­ter que les es­paces in­ter­mots des textes jus­ti­fiés soient trop grands."/>
+                <para/>
+                <ITEXT CH="Avant d'ef­fec­tuer les cé­sures, il faut faire les ré­glages qui condi­tionnent ces cé­sures :"/>
+                <para/>
+                <para/>
+                <ITEXT CPARENT="Logiciel " CH="⬉"/>
+                <ITEXT CH=" Gestionnaire de styles &gt; Style de paragraphe &gt; Style de caractères &gt; Propriétés"/>
+                <para PARENT="Labeur logiciel"/>
+                <tab/>
+                <ITEXT FONT="VG5000 Regular" CH="✓"/>
+                <ITEXT CH="Caractère de césure"/>
+                <para PARENT="Labeur"/>
+                <tab/>
+                <ITEXT FONT="VG5000 Regular" CH="✓"/>
+                <ITEXT CH="Mot le plus court"/>
+                <para PARENT="Labeur"/>
+                <para/>
+                <ITEXT CH="Vous pouvez aussi gérer des exceptions ou des exclusions, pour par exemple des mots qui ne doivent pas subir de césure, dans :"/>
+                <para/>
+                <ITEXT CPARENT="Logiciel " CH="⬉"/>
+                <ITEXT CH=" Édition &gt; Propriétés du document &gt; Césures &gt; Listes de mots"/>
+                <para PARENT="Labeur logiciel"/>
+                <para/>
+                <ITEXT CH="Une fois les réglages effectués, en sélectionnant un bloc de texte :"/>
+                <para/>
+                <ITEXT CPARENT="Logiciel " CH="⬉"/>
+                <ITEXT CH=" Ex­tra &gt; Ef­fec­tuer les cé­sures"/>
+                <para PARENT="Labeur logiciel"/>
+                <ITEXT CPARENT="Logiciel " CH="⬉"/>
+                <ITEXT CH=" Ex­tra &gt; Défaire les cé­sures"/>
+                <para PARENT="Labeur logiciel"/>
+                <ITEXT CH="À savoir que le changement des paramètres de césure nécessite de défaire et de refaire les césures. Ce système permet un ajustement fin des césures au cas par cas."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="132.767825560267" YPOS="3977.28737007874" OwnPage="11" ItemID="207817904" PTYPE="4" WIDTH="112.849602261255" HEIGHT="43.2000000000007" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L112.85 0 L112.85 43.2 L0 43.2 L0 0 Z" copath="M0 0 L112.85 0 L112.85 43.2 L0 43.2 L0 0 Z" gXpos="132.767825560267" gYpos="4612.56264566929" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="À modifier selon contexte"/>
+                <trail PARENT="Commentaires"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="676.483569553806" YPOS="3236.37763779528" OwnPage="10" ItemID="207837728" PTYPE="4" WIDTH="222.57217847769" HEIGHT="515.275590551181" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L222.572 0 L222.572 515.276 L0 515.276 L0 0 Z" copath="M0 0 L222.572 0 L222.572 515.276 L0 515.276 L0 0 Z" gXpos="676.483569553806" gYpos="3236.37763779528" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Ges­tion­naire des styles"/>
+                <para PARENT="Titre partie"/>
+                <para/>
+                <ITEXT CH="Si tu n'as pas tou­ché au style de ton texte, il doit res­sem­bler à ça."/>
+                <para/>
+                <ITEXT CH="Dans cette par­tie on va ap­prendre à faire en sorte qu'il res­semble plu­tôt à ça. "/>
+                <para PARENT="Labeur"/>
+                <para PARENT="Labeur"/>
+                <ITEXT CH="Le "/>
+                <ITEXT CPARENT="Logiciel " CH="ges­tion­naire de styles "/>
+                <ITEXT CH="per­met de créer des styles de pa­ra­graphes réuti­li­sables et ac­tua­li­sables : une fois le style ap­pli­qué à un pa­ra­graphe, une mo­di­fi­ca­tion au style s'ap­pli­que­ra au­to­ma­ti­que­ment à tous les pa­ra­graphes sty­li­sés. Voici les principaux réglages disponibles :"/>
+                <para PARENT="Labeur"/>
+                <para PARENT="Labeur logiciel"/>
+                <ITEXT CPARENT="Logiciel " CH="⬉"/>
+                <ITEXT CH=" Ges­tion­naire de styles (F4)"/>
+                <para PARENT="Labeur logiciel"/>
+                <ITEXT CPARENT="Logiciel " CH="⬉"/>
+                <ITEXT CH=" Pro­prié­tés"/>
+                <para PARENT="Labeur logiciel"/>
+                <tab FONT="VG5000 Regular"/>
+                <ITEXT FONT="VG5000 Regular" CH="✓"/>
+                <ITEXT CH="Ali­gne­ment et dis­tances"/>
+                <para PARENT="Labeur logiciel"/>
+                <ITEXT CH="Ali­gne­ment du texte (fer­ré à droite, à gauche, jus­ti­fié etc.), in­ter­ignage sur la grille, au­to­ma­tique ou libre, es­pace avant ou après le pa­ra­graphe."/>
+                <para PARENT="Labeur"/>
+                <tab FONT="VG5000 Regular"/>
+                <ITEXT FONT="VG5000 Regular" CH="✓"/>
+                <ITEXT CH="Veuves et or­phe­lines"/>
+                <para PARENT="Labeur logiciel"/>
+                <ITEXT CH="Pre­mière ou der­nière ligne d'un pa­ra­graphe qui se re­trouve seule dans le bloc texte lié sui­vant. "/>
+                <para PARENT="Labeur"/>
+                <tab FONT="VG5000 Regular"/>
+                <ITEXT FONT="VG5000 Regular" CH="✓"/>
+                <ITEXT CH="Marges op­tiques"/>
+                <para PARENT="Labeur logiciel"/>
+                <ITEXT CH="Per­met d'ajou­ter des marges dans le bloc texte. Elles se règlent à l'aide des règles en bor­dure d'es­pace de tra­vail."/>
+                <para PARENT="Labeur"/>
+                <tab FONT="VG5000 Regular"/>
+                <ITEXT FONT="VG5000 Regular" CH="✓"/>
+                <ITEXT CH="Ta­bu­la­tions et in­den­ta­tion"/>
+                <para PARENT="Labeur logiciel"/>
+                <ITEXT CH="Ré­glages des ta­bu­la­tions et autres écar­te­ments ap­pli­cables au pa­ra­graphe."/>
+                <para PARENT="Labeur"/>
+                <ITEXT CPARENT="Logiciel " CH="⬉"/>
+                <ITEXT CH="Style de ca­rac­tères"/>
+                <para PARENT="Labeur logiciel"/>
+                <tab FONT="VG5000 Regular"/>
+                <ITEXT FONT="VG5000 Regular" CH="✓"/>
+                <ITEXT CH="Ba­sé sur"/>
+                <para PARENT="Labeur logiciel"/>
+                <ITEXT CH="Per­met d'ap­pli­quer un style de ca­rac­tère dé­fi­ni par ailleurs au pa­ra­graphe."/>
+                <para PARENT="Labeur"/>
+                <tab FONT="VG5000 Regular"/>
+                <ITEXT FONT="VG5000 Regular" CH="✓"/>
+                <ITEXT CH="For­ma­tage de base"/>
+                <para PARENT="Labeur logiciel"/>
+                <ITEXT CH="Op­tions de style de ca­rac­tère de base qui peuvent être ré­glées spé­ci­fi­que­ment pour le pa­ra­graphe."/>
+                <para PARENT="Labeur"/>
+                <para PARENT="Labeur"/>
+                <para PARENT="Titre principal"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="559.528188976378" YPOS="4301.68050393701" OwnPage="12" ItemID="207832064" PTYPE="4" WIDTH="76.9999999999999" HEIGHT="85.2479999999996" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L77 0 L77 85.248 L0 85.248 L0 0 Z" copath="M0 0 L77 0 L77 85.248 L0 85.248 L0 0 Z" gXpos="559.528188976378" gYpos="4301.68050393701" gWidth="0" gHeight="0" PSTYLE="Commentaires" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Commentaires"/>
+                <ITEXT CH="Ici je suis à 11pt pour le texte "/>
+                <para PARENT="Commentaires"/>
+                <ITEXT CH="de labeur."/>
+                <trail PARENT="Commentaires"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="559.528188976378" YPOS="3362.93480314961" OwnPage="10" ItemID="207820736" PTYPE="4" WIDTH="105.616797900262" HEIGHT="55.6800000000003" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L105.617 0 L105.617 55.68 L0 55.68 L0 0 Z" copath="M0 0 L105.617 0 L105.617 55.68 L0 55.68 L0 0 Z" gXpos="559.528188976378" gYpos="3362.93480314961" gWidth="0" gHeight="0" PSTYLE="Commentaires" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Commentaires"/>
+                <ITEXT CH="1. Les commentaires"/>
+                <trail PARENT="Commentaires"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="559.528188976378" YPOS="3494.01543307087" OwnPage="10" ItemID="207834896" PTYPE="4" WIDTH="105.616797900262" HEIGHT="55.6800000000003" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L105.617 0 L105.617 55.68 L0 55.68 L0 0 Z" copath="M0 0 L105.617 0 L105.617 55.68 L0 55.68 L0 0 Z" gXpos="559.528188976378" gYpos="3494.01543307087" gWidth="0" gHeight="0" PSTYLE="Commentaires" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Commentaires"/>
+                <ITEXT CH="C'est une situation "/>
+                <para PARENT="Commentaires"/>
+                <ITEXT CH="à éviter car elle nuit "/>
+                <para PARENT="Commentaires"/>
+                <ITEXT CH="à la lecture."/>
+                <trail PARENT="Commentaires"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="315.433700787402" YPOS="4506.92818897638" OwnPage="13" ItemID="207812240" PTYPE="4" WIDTH="164.094488188976" HEIGHT="515.275590551181" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L164.094 0 L164.094 515.276 L0 515.276 L0 0 Z" copath="M0 0 L164.094 0 L164.094 515.276 L0 515.276 L0 0 Z" gXpos="315.433700787402" gYpos="4506.92818897638" gWidth="0" gHeight="0" PSTYLE="Labeur" LAYER="0" NEXTITEM="-1" BACKITEM="207840560"/>
+        <PAGEOBJECT XPOS="676.483569553806" YPOS="4506.92818897638" OwnPage="14" ItemID="207840560" PTYPE="4" WIDTH="222.57217847769" HEIGHT="515.275590551181" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L222.572 0 L222.572 515.276 L0 515.276 L0 0 Z" copath="M0 0 L222.572 0 L222.572 515.276 L0 515.276 L0 0 Z" gXpos="676.483569553806" gYpos="4506.92818897638" gWidth="0" gHeight="0" PSTYLE="Labeur" LAYER="0" NEXTITEM="207812240" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Labeur"/>
+                <ITEXT FONT="VG5000 Regular" Unicode="55357"/>
+                <ITEXT FONT="VG5000 Regular" Unicode="56536"/>
+                <ITEXT CH=" Pages"/>
+                <para PARENT="Titre principal"/>
+                <ITEXT CH="Ga­ba­rits"/>
+                <para PARENT="Titre partie"/>
+                <ITEXT CH="Pour le mo­ment, tu ne dois avoir que des pages blanches. Ar­ran­geons ça comme il faut avec les ga­ba­rits."/>
+                <para PARENT="Labeur"/>
+                <para PARENT="Labeur"/>
+                <ITEXT CPARENT="Logiciel " FONT="VG5000 Regular" CH="⬉"/>
+                <ITEXT CPARENT="Logiciel " CH=" Édi­tion &gt; Ga­ba­rits"/>
+                <para PARENT="Labeur logiciel"/>
+                <ITEXT CH="Dans la fe­nêtre gé­rer les ga­ba­rits, à l'aide des dif­fé­rents bou­tons tu peux en créer, en im­por­ter, en co­pier ou en sup­pri­mer. Par dé­faut, si tu as co­ché l'op­tion Pages en Vis-à-vis, tu as deux ga­ba­rits : Nor­mal droite et Nor­mal gauche. Ils sont ap­pli­qués res­pec­ti­ve­ment sur toutes tes pages de droite et de gauche."/>
+                <para PARENT="Labeur"/>
+                <para PARENT="Labeur"/>
+                <ITEXT CH="Faire une grille"/>
+                <para PARENT="Titre partie"/>
+                <ITEXT CH="Le mieux pour créer une mise en page digne de ce nom c'est de faire une grille :"/>
+                <para PARENT="Labeur"/>
+                <ITEXT CPARENT="Logiciel " FONT="VG5000 Regular" CH="⬉"/>
+                <ITEXT CH=" Page &gt; Ges­tion des re­pères"/>
+                <para PARENT="Labeur logiciel"/>
+                <ITEXT CPARENT="Logiciel " FONT="VG5000 Regular" CH="⬉"/>
+                <ITEXT CH=" "/>
+                <ITEXT CPARENT="Logiciel " CH="On­glet simple"/>
+                <ITEXT CH=" : per­met de pla­cer pré­ci­sém­ment un re­père unique."/>
+                <para PARENT="Labeur"/>
+                <ITEXT CPARENT="Logiciel " FONT="VG5000 Regular" CH="⬉"/>
+                <ITEXT CH=" "/>
+                <ITEXT CPARENT="Logiciel " CH="On­glet Co­lonne/Ligne"/>
+                <ITEXT CH=" : per­met de créer fa­ci­le­ment une dis­po­si­tion de re­pères"/>
+                <para PARENT="Labeur"/>
+                <tab/>
+                <ITEXT FONT="VG5000 Regular" CH="✓"/>
+                <ITEXT CPARENT="Logiciel " CH="Nombre de re­pères"/>
+                <para PARENT="Labeur"/>
+                <tab/>
+                <ITEXT FONT="VG5000 Regular" CH="✓"/>
+                <ITEXT CPARENT="Logiciel " CH="Gout­tière"/>
+                <ITEXT CH=" : écart entre chaque co­lonne ou ligne créer"/>
+                <para PARENT="Labeur"/>
+                <tab/>
+                <ITEXT FONT="VG5000 Regular" CH="✓"/>
+                <ITEXT CPARENT="Logiciel " CH="Ori­gine"/>
+                <ITEXT CH=" : dé­cou­page de la page à par­tir du for­mat to­tal ou des marges in­ternes. Pri­vi­lé­gie l'op­tion Marges pour avoir un dé­cou­page égal de la page à l'in­té­rieur de tes marges."/>
+                <para PARENT="Labeur"/>
+                <tab/>
+                <ITEXT FONT="VG5000 Regular" CH="✓"/>
+                <ITEXT CH=" "/>
+                <ITEXT CPARENT="Logiciel " CH="Ap­pli­quer à toutes les pages "/>
+                <ITEXT CH=": à ne faire uni­que­ment que si tu sou­haites la même grille par­tout. "/>
+                <para PARENT="Labeur"/>
+                <para/>
+                <breakframe/>
+                <ITEXT CH="Nu­mé­ro­ter les pages"/>
+                <para PARENT="Titre partie"/>
+                <ITEXT CH="Le nu­mé­ro de page est le plus sou­vent un in­va­riant qui se re­trouve sur toutes les pages. Il faut donc le pla­cer sur un ga­ba­rit."/>
+                <para PARENT="Labeur"/>
+                <ITEXT CH="Une fois dans l'es­pace d'édi­tion des ga­ba­rits,  crée un bloc texte là où tu sou­haites dis­po­ser le nu­mé­ro."/>
+                <para PARENT="Labeur"/>
+                <para PARENT="Labeur"/>
+                <ITEXT CH="En­suite, in­sère un ca­rac­tère spé­cial qui af­fi­che­ra au­to­ma­ti­que­ment le nu­mé­ro de la page."/>
+                <para PARENT="Labeur"/>
+                <para PARENT="Labeur"/>
+                <ITEXT CH="In­sé­rer &gt; Ca­rac­tère &gt; Nu­mé­ro de page"/>
+                <para PARENT="Labeur logiciel"/>
+                <para/>
+                <ITEXT CH="Ges­tion des pages"/>
+                <para PARENT="Titre partie"/>
+                <para PARENT="Labeur logiciel"/>
+                <ITEXT CH="La ges­tion des pages s'ef­fec­tue à l'aide du menu dé­rou­lant "/>
+                <ITEXT CPARENT="Logiciel " CH="Page"/>
+                <ITEXT CH=" et à l'aide de la fe­nêtre "/>
+                <ITEXT CPARENT="Logiciel " CH="Or­ga­ni­ser les pages"/>
+                <ITEXT CH=". Pour af­fi­cher cette fe­nêtre :"/>
+                <para PARENT="Labeur"/>
+                <para PARENT="Labeur logiciel"/>
+                <ITEXT CH="Fe­nêtre &gt; Or­ga­ni­sez les pages"/>
+                <para PARENT="Labeur logiciel"/>
+                <para/>
+                <ITEXT CH="Dans cette fe­nêtre vous pou­vez ajou­ter de nou­velles pages à par­tir de ga­ba­rits ou ap­pli­quer de ga­ba­rits en glis­sant-dé­po­sant les élé­ments. Vous pou­vez aus­si ré­oga­ni­ser les pages avec la même mé­ca­nique."/>
+                <para/>
+                <ITEXT CH="Pour une ma­ni­pu­la­tion ou l'ajout en quan­ti­té de plu­sieurs pages, je te conseille de pas­ser par le menu Page. Tout y est ex­pli­cite, je te laisse re­gar­der."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="559.528188976378" YPOS="5003.8174488189" OwnPage="14" ItemID="207843392" PTYPE="4" WIDTH="105.616797900262" HEIGHT="18.3863307086631" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L105.617 0 L105.617 18.3863 L0 18.3863 L0 0 Z" copath="M0 0 L105.617 0 L105.617 18.3863 L0 18.3863 L0 0 Z" gXpos="559.528188976378" gYpos="5003.8174488189" gWidth="105.617" gHeight="13.139251390598" PSTYLE="Commentaires" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Commentaires" ALIGN="1"/>
+                <ITEXT CH="Colonne 1"/>
+                <trail PARENT="Commentaires" ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="676.483569553806" YPOS="5003.8174488189" OwnPage="14" ItemID="207829232" PTYPE="4" WIDTH="105.616797900262" HEIGHT="18.3863307086631" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L105.617 0 L105.617 18.3863 L0 18.3863 L0 0 Z" copath="M0 0 L105.617 0 L105.617 18.3863 L0 18.3863 L0 0 Z" gXpos="676.483569553806" gYpos="5003.8174488189" gWidth="105.617" gHeight="13.139251390598" PSTYLE="Commentaires" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Commentaires" ALIGN="1"/>
+                <ITEXT CH="Colonne 2"/>
+                <trail PARENT="Commentaires" ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="793.438950131234" YPOS="5003.8174488189" OwnPage="14" ItemID="207857552" PTYPE="4" WIDTH="105.616797900262" HEIGHT="18.3863307086631" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L105.617 0 L105.617 18.3863 L0 18.3863 L0 0 Z" copath="M0 0 L105.617 0 L105.617 18.3863 L0 18.3863 L0 0 Z" gXpos="793.438950131234" gYpos="5003.8174488189" gWidth="105.617" gHeight="13.139251390598" PSTYLE="Commentaires" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Commentaires" ALIGN="1"/>
+                <ITEXT CH="Colonne 3"/>
+                <trail PARENT="Commentaires" ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="619.47253330312" YPOS="4979.8174488189" OwnPage="14" ItemID="207863216" PTYPE="4" WIDTH="105.616797900262" HEIGHT="18.3863307086631" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L105.617 0 L105.617 18.3863 L0 18.3863 L0 0 Z" copath="M0 0 L105.617 0 L105.617 18.3863 L0 18.3863 L0 0 Z" gXpos="619.47253330312" gYpos="4979.8174488189" gWidth="105.617" gHeight="13.139251390598" PSTYLE="Commentaires" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Commentaires" ALIGN="1"/>
+                <ITEXT CH="Gouttière"/>
+                <trail PARENT="Commentaires" ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="734.96125984252" YPOS="4979.8174488189" OwnPage="14" ItemID="207846224" PTYPE="4" WIDTH="105.616797900262" HEIGHT="18.3863307086631" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L105.617 0 L105.617 18.3863 L0 18.3863 L0 0 Z" copath="M0 0 L105.617 0 L105.617 18.3863 L0 18.3863 L0 0 Z" gXpos="734.96125984252" gYpos="4979.8174488189" gWidth="105.617" gHeight="13.139251390598" PSTYLE="Commentaires" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Commentaires" ALIGN="1"/>
+                <ITEXT CH="Gouttière"/>
+                <trail PARENT="Commentaires" ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140.00062992126" YPOS="2075.56637189582" OwnPage="5" ItemID="207854720" PTYPE="4" WIDTH="105.616797900262" HEIGHT="73.1076923076926" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L105.617 0 L105.617 73.1077 L0 73.1077 L0 0 Z" copath="M0 0 L105.617 0 L105.617 73.1077 L0 73.1077 L0 0 Z" gXpos="140.00062992126" gYpos="2075.56637189582" gWidth="0" gHeight="0" PSTYLE="Commentaires" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Commentaires"/>
+                <ITEXT CH="Il peut s'agir d'un texte qui déborde d'un cadre de texte, d'une image à la résolution trop faible..."/>
+                <trail PARENT="Commentaires"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="559.528188976378" YPOS="5217.29368647101" OwnPage="16" ItemID="207866048" PTYPE="4" WIDTH="105.616797900262" HEIGHT="88.494545454545" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L105.617 0 L105.617 88.4945 L0 88.4945 L0 0 Z" copath="M0 0 L105.617 0 L105.617 88.4945 L0 88.4945 L0 0 Z" gXpos="559.528188976378" gYpos="5217.29368647101" gWidth="0" gHeight="0" PSTYLE="Commentaires" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Commentaires"/>
+                <ITEXT CH="Malgré tout, je te conseille d'installer la version la plus récente."/>
+                <trail PARENT="Commentaires"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="676.483569553806" YPOS="1177.46645669291" OwnPage="2" ItemID="207860384" PTYPE="4" WIDTH="222.57217847769" HEIGHT="45" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L222.572 0 L222.572 45 L0 45 L0 0 Z" copath="M0 0 L222.572 0 L222.572 45 L0 45 L0 0 Z" gXpos="676.483569553806" gYpos="1177.46645669291" gWidth="0" gHeight="0" PSTYLE="Labeur" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Labeur"/>
+                <ITEXT CH="Sur ce, rends toi à la fin de ce guide pour com­men­cer et re­monte-le à l'en­vers pour avan­cer."/>
+                <trail PARENT="Labeur"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="676.483569553806" YPOS="1330.55181102362" OwnPage="4" ItemID="207868880" PTYPE="4" WIDTH="222.57217847769" HEIGHT="515.275590551181" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L222.572 0 L222.572 515.276 L0 515.276 L0 0 Z" copath="M0 0 L222.572 0 L222.572 515.276 L0 515.276 L0 0 Z" gXpos="676.483569553806" gYpos="695.276535433068" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="VG5000 Regular" Unicode="55357"/>
+                <ITEXT FONT="VG5000 Regular" Unicode="56536"/>
+                <ITEXT CH=" Imposition"/>
+                <para PARENT="Titre principal"/>
+                <ITEXT CH="Après l'export, si vous souhaitez imprimer vous-même le guide sous forme d'un cahier A5, c'est-à-dire une feuille A4 pliée en deux, il vous faut réaliser l'imposition du document pour imprimer. Cette opération permet d'organiser les pages virtuelles sur les futures feuilles de papier. Certaines imprimantes te proposent nativement d'imprimer en livret ou en cahier. Si ce n'est pas le cas, tu peux utiliser l'outil en ligne Bookbinder JS. "/>
+                <trail PARENT="Labeur"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="256.956010498688" YPOS="5142.20346456693" OwnPage="15" ItemID="207849056" PTYPE="4" WIDTH="222.57217847769" HEIGHT="527.92" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L222.572 0 L222.572 527.92 L0 527.92 L0 0 Z" copath="M0 0 L222.572 0 L222.572 527.92 L0 527.92 L0 0 Z" gXpos="256.956010498688" gYpos="5142.20346456693" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="VG5000 Regular" Unicode="55357"/>
+                <ITEXT FONT="VG5000 Regular" Unicode="56580"/>
+                <ITEXT CH=" Méthodologie"/>
+                <para PARENT="Titre principal"/>
+                <ITEXT CH="Styles"/>
+                <para PARENT="Titre partie"/>
+                <ITEXT CH="On va voir comment travailler efficacement en automatisant certains éléments :"/>
+                <para PARENT="Labeur"/>
+                <tab/>
+                <ITEXT CH="• "/>
+                <ITEXT CPARENT="Logiciel " CH="Styles de paragraphe : "/>
+                <ITEXT CH="donne un style à un paragraphe entier."/>
+                <para PARENT="Labeur"/>
+                <tab/>
+                <ITEXT CH="• "/>
+                <ITEXT CPARENT="Logiciel " CH="Style de caractère :"/>
+                <ITEXT CH=" permet de changer le style d'une lettre ou d'un mot sans affecter un paragraphe en entier."/>
+                <para PARENT="Labeur"/>
+                <tab/>
+                <ITEXT CH="• "/>
+                <ITEXT CPARENT="Logiciel " CH="Gabarits :"/>
+                <ITEXT CH=" équivalent du style de paragraphe mais pour les pages. Sur Scribus, on distingue les gabarits destinés aux pages de droite ou de gauche. Les éléments (texte, etc.) sur les gabarits ne sont pas modifiables et s'appliquent à toutes les pages équipées du gabarit. Pratique pour les numéros de page par exemple."/>
+                <para PARENT="Labeur"/>
+                <para/>
+                <para/>
+                <ITEXT CH="Édition"/>
+                <para PARENT="Titre partie"/>
+                <ITEXT CH="La manupilation et l'édition d'objets et du contenu automatisé à l'aide des styles se fait à l'aide de trois menus :"/>
+                <para PARENT="Labeur"/>
+                <para PARENT="Labeur"/>
+                <ITEXT CPARENT="Logiciel " CH="Propriétés (F2)"/>
+                <para PARENT="Labeur"/>
+                <tab/>
+                <ITEXT CH="Ce menu permet "/>
+                <ITEXT CPARENT="Logiciel " CH="la manipulation extérieure et globale des blocs"/>
+                <ITEXT CH=" comme leur positionnement, orientation, leur place sur la pile des calques, leur transparence, leur contour, leur couleur etc."/>
+                <para PARENT="Labeur"/>
+                <para PARENT="Labeur"/>
+                <ITEXT CPARENT="Logiciel " CH="Propriétés du contenu (F3)"/>
+                <para PARENT="Labeur"/>
+                <tab/>
+                <ITEXT CH="Ce menu permet de "/>
+                <ITEXT CPARENT="Logiciel " CH="manipuler le contenu des blocs"/>
+                <ITEXT CH=", comme le texte ou les images."/>
+                <para PARENT="Labeur"/>
+                <para PARENT="Labeur"/>
+                <ITEXT CPARENT="Logiciel " CH="Gestionnaire des styles (F4)"/>
+                <para PARENT="Labeur"/>
+                <tab/>
+                <ITEXT CPARENT="Logiciel " CH="La manipulation des styles"/>
+                <ITEXT CH=" (texte et autre) rapide et automatisée."/>
+                <para PARENT="Labeur"/>
+                <para/>
+                <para/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140.00062992126" YPOS="5399.8094488189" OwnPage="15" ItemID="207851888" PTYPE="4" WIDTH="105.616797900262" HEIGHT="120.648188976378" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L105.617 0 L105.617 120.648 L0 120.648 L0 0 Z" copath="M0 0 L105.617 0 L105.617 120.648 L0 120.648 L0 0 Z" gXpos="140.00062992126" gYpos="5399.8094488189" gWidth="0" gHeight="0" PSTYLE="Commentaires" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Commentaires"/>
+                <ITEXT CPARENT="Commentaire" CH="Les raccourcis sont faciles à retenir et permettent l'accès rapide et intuitif à ces menus essentiels. Retiens-les !"/>
+                <trail PARENT="Commentaires"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="256.956010498688" YPOS="695.276535433071" OwnPage="1" ItemID="212580592" PTYPE="4" WIDTH="222.57217847769" HEIGHT="317.165354330709" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L222.572 0 L222.572 317.165 L0 317.165 L0 0 Z" copath="M0 0 L222.572 0 L222.572 317.165 L0 317.165 L0 0 Z" gXpos="-162.57154855643" gYpos="695.276535433069" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="C'est quoi un lo­gi­ciel libre ?"/>
+                <para PARENT="Titre principal"/>
+                <ITEXT CH="Un lo­gi­ciel libre c'est un pro­gramme in­for­ma­tique qui te ga­ran­ti ces 4 li­ber­tés fon­da­men­tales :"/>
+                <para PARENT="Labeur"/>
+                <tab FONT="VG5000 Regular"/>
+                <ITEXT FONT="VG5000 Regular" Unicode="55356"/>
+                <ITEXT FONT="VG5000 Regular" Unicode="57235"/>
+                <ITEXT CPARENT="Logiciel " CH=" Li­ber­té 0"/>
+                <nbspace CPARENT="Logiciel "/>
+                <ITEXT CPARENT="Logiciel " CH=":"/>
+                <ITEXT CH=" la li­ber­té de faire fonc­tion­ner le pro­gramme comme tu le sou­haite, pour n'im­porte quel usage ; "/>
+                <para PARENT="Labeur"/>
+                <tab/>
+                <ITEXT FONT="VG5000 Regular" Unicode="55356"/>
+                <ITEXT FONT="VG5000 Regular" Unicode="57235"/>
+                <ITEXT CH=" "/>
+                <ITEXT CPARENT="Logiciel " CH="Li­ber­té"/>
+                <nbspace CPARENT="Logiciel "/>
+                <ITEXT CPARENT="Logiciel " CH="1"/>
+                <nbspace/>
+                <ITEXT CH=": la li­ber­té d'étu­dier le fonc­tion­ne­ment du pro­gramme et de le mo­di­fier pour qu'il fasse les opé­ra­tions in­for­ma­tiques que tu sou­haite ; une condi­tion préa­lable est d'ac­cé­der au code sour­ce ; "/>
+                <para PARENT="Labeur"/>
+                <tab/>
+                <ITEXT FONT="VG5000 Regular" Unicode="55356"/>
+                <ITEXT FONT="VG5000 Regular" Unicode="57235"/>
+                <ITEXT CH=" "/>
+                <ITEXT CPARENT="Logiciel " CH="Li­ber­té"/>
+                <nbspace CPARENT="Logiciel "/>
+                <ITEXT CPARENT="Logiciel " CH="2"/>
+                <nbspace/>
+                <ITEXT CH=": la li­ber­té d'en re­dis­tri­buer des co­pies pour ai­der les autres ; "/>
+                <para PARENT="Labeur"/>
+                <tab/>
+                <ITEXT FONT="VG5000 Regular" Unicode="55356"/>
+                <ITEXT FONT="VG5000 Regular" Unicode="57235"/>
+                <ITEXT CH=" "/>
+                <ITEXT CPARENT="Logiciel " CH="Li­ber­té"/>
+                <nbspace CPARENT="Logiciel "/>
+                <ITEXT CPARENT="Logiciel " CH="3"/>
+                <nbspace/>
+                <ITEXT CH=": la li­ber­té de dis­tri­buer des co­pies de tes ver­sions mo­di­fiées aux autres ; ce fai­sant, tu donnes à l'en­semble de la com­mu­nau­té une chance de bé­né­fi­cier de tes mo­di­fi­ca­tions ;"/>
+                <nbspace/>
+                <ITEXT CH="une condi­tion préa­lable est d'ac­cé­der au code source."/>
+                <trail PARENT="Labeur"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="140.00062992126" YPOS="6108.44220472441" OwnPage="17" ItemID="212560768" PTYPE="4" WIDTH="110.469471316085" HEIGHT="190.312125984252" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L110.469 0 L110.469 190.312 L0 190.312 L0 0 Z" copath="M0 0 L110.469 0 L110.469 190.312 L0 190.312 L0 0 Z" gXpos="-279.526929133858" gYpos="3567.34110236221" gWidth="0" gHeight="0" PSTYLE="Commentaires" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Commentaires" ALIGN="0"/>
+                <ITEXT CH="Composé en IBM Plex Sans et en VG5000 by Justin Bihan, distribué by velvetyne.fr."/>
+                <para PARENT="Commentaires" ALIGN="0"/>
+                <ITEXT CH="sur le logiciel libre Scribus."/>
+                <para PARENT="Commentaires" ALIGN="0"/>
+                <para PARENT="Commentaires" ALIGN="0"/>
+                <ITEXT CH="Imprimé à l'isdaT, décembre 2023."/>
+                <para PARENT="Commentaires" ALIGN="0"/>
+                <para PARENT="Commentaires" ALIGN="0"/>
+                <ITEXT CH="Version 1 par Adrià SOUBIAS RABASSA."/>
+                <para PARENT="Commentaires" ALIGN="0"/>
+                <para/>
+                <ITEXT CH="Licence Creative Commons CC BY NC SA."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+    </DOCUMENT>
+</SCRIBUSUTF8NEW>
